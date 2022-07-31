@@ -1,0 +1,999 @@
+{"id": 46, "text": "钢管扣件平米包干。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"]]}
+{"id": 47, "text": "自密封垫、石墨盘根等。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"], [5, 9, "material"]]}
+{"id": 48, "text": "河北省某局智能应用平台建设采购项目比选公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [5, 13, "service"]]}
+{"id": 49, "text": "北张村城中村改造保利东郡项目监理招标公告。", "meta": {}, "annotation_approver": null, "labels": [[3, 16, "engineer"]]}
+{"id": 50, "text": "泰安市高铁新区英雄山第四实验小学智慧课堂系统采购及安装项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [16, 22, "service"]]}
+{"id": 51, "text": "2018年度沟里水库县级及以下公益性水利工程维修养护项目监理标,施工标。", "meta": {}, "annotation_approver": null, "labels": [[18, 30, "engineer"]]}
+{"id": 52, "text": "[招标公告]祁连县环境保护和林业局三河源保护分区托勒河源头湿地中央财政湿。", "meta": {}, "annotation_approver": null, "labels": [[6, 17, "purchaser"]]}
+{"id": 53, "text": "10181469重装机修厂标准件询价。", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "material"]]}
+{"id": 54, "text": "宁波市海曙区人民政府西门街道办事处居民会支出专户银行竞争性选择项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [17, 26, "service"]]}
+{"id": 55, "text": "ZBCGZXX039059工具汽车。", "meta": {}, "annotation_approver": "hechangjia", "labels": [[13, 17, "material"]]}
+{"id": 56, "text": "鄄城县2020年通道城市散煤清零农村地区清洁取暖电暖器采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[20, 27, "material"]]}
+{"id": 57, "text": "询价公告：中钨高新2019年6月香炉山球磨机、破碎机配件临时计划询价书X020。", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "material"], [23, 28, "material"], [5, 9, "purchaser"]]}
+{"id": 58, "text": "债权债务专项清理服务询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "service"]]}
+{"id": 59, "text": "橡胶法兰垫子。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "material"]]}
+{"id": 60, "text": "渤海钻探第一钻井公司冀东项目野营房和钻机设备部件修理（二次）。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [18, 26, "service"]]}
+{"id": 61, "text": "石狮市人民法院关于闽DZ6W35雪佛兰牌机动车（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[16, 23, "material"], [0, 7, "purchaser"]]}
+{"id": 62, "text": "中交四航局三公司G15沈海高速公路海口段TJ15标段预应力孔道压浆剂采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [26, 34, "material"]]}
+{"id": 63, "text": "湖北省省级政府采购项目（湖北省信访局无障碍电梯采购项目公开招标公告）。", "meta": {}, "annotation_approver": null, "labels": [[18, 23, "material"], [12, 18, "purchaser"]]}
+{"id": 64, "text": "广西建澜工程招标有限公司旧城镇庆兰村内屯屯内道路硬化、旧城镇庆兰村百庆屯屯内道路硬化等8个项目(GXBSZC20185J2005GXJL)竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [22, 26, "engineer"], [38, 42, "engineer"]]}
+{"id": 66, "text": "四川农业大学2018年一卡通和机房维保及信息系统安全等级测评采购项目第四次公开招标采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [24, 30, "service"]]}
+{"id": 67, "text": "长春净月高新技术产业开发区机关财务结算中心等部门一般设备询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "purchaser"]]}
+{"id": 68, "text": "石灰石破碎安全门篦条。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "material"]]}
+{"id": 69, "text": "宁波港蓝盾保安有限责任公司2020年员工团体健康体检服务询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [18, 28, "service"]]}
+{"id": 70, "text": "安宁公司检修厂、炼铁乐泰55管道魔绳、修补剂、防卡剂、平面密封胶XKS20191。", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "material"], [23, 26, "material"], [10, 18, "material"], [27, 32, "material"]]}
+{"id": 71, "text": "木板材采购武钢集团襄阳重型装备材料有限公司。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "material"], [5, 21, "purchaser"]]}
+{"id": 72, "text": "大理市妇幼保健院办公设备采购项目询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 12, "material"]]}
+{"id": 73, "text": "肇庆市高要区林业局对讲机竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 12, "material"]]}
+{"id": 74, "text": "焦作市山阳区人民法院关于河南省焦作市岭南路与北环路交叉口云河丹堤小区负一层A1车位（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [39, 41, "material"]]}
+{"id": 75, "text": "临武县采购病媒生物防制服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 13, "service"]]}
+{"id": 76, "text": "合肥经开区出口加工区公租房布草洗涤单位采购项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 17, "service"]]}
+{"id": 77, "text": "陕西延长石油物资集团江苏有限公司关于炼化公司油田气化工科技公司所需甲醇框架协议采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [33, 35, "material"]]}
+{"id": 78, "text": "202006AGC20012309SG招标文件电子版.NZF。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 79, "text": "沿河县2019年原国土局、财政局、县政府、烟草局、原广电局老旧小区改造建设项目施工招标。", "meta": {}, "annotation_approver": null, "labels": [[31, 41, "engineer"]]}
+{"id": 80, "text": "泰山石膏有限公司询价单端子FJ62.5。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [11, 13, "material"]]}
+{"id": 81, "text": "九龙坡区交管所所需空调采购询价采购公告（项目编号CQJLPZFCGXJ111004）。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [9, 11, "material"]]}
+{"id": 82, "text": "鸡公山桃花寨候车区连廊工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "engineer"]]}
+{"id": 83, "text": "芯片。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"]]}
+{"id": 84, "text": "香山湖管理区邱湾村水污染环境整治工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 18, "engineer"]]}
+{"id": 85, "text": "武金堤（混凝土制品）。", "meta": {}, "annotation_approver": null, "labels": [[4, 9, "material"]]}
+{"id": 86, "text": "聚合氯化铝采购公告(国投铁岭能源)。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "material"], [10, 16, "purchaser"]]}
+{"id": 87, "text": "福建中医药大学附属第二人民医院血气分析仪等设备货物类采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [15, 20, "material"]]}
+{"id": 88, "text": "YJLZTLWGQ202011008兰张铁路项目经理部五工拌合站拼装钢材询价单。", "meta": {}, "annotation_approver": null, "labels": [[18, 32, "purchaser"], [32, 36, "material"]]}
+{"id": 89, "text": "什邡市人民法院关于什邡市经济开发区（北区）京瑞财富中心义乌国际商品城1栋2355号营业用房（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [41, 45, "material"]]}
+{"id": 90, "text": "北京市丰盛中医骨伤专科医院,跌打镇痛膏(无,橡胶膏剂,10cm215;400cm)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [14, 19, "material"], [22, 26, "material"]]}
+{"id": 91, "text": "西和县城市管理行政执法局环卫车辆及垃圾桶采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 16, "material"], [17, 20, "material"]]}
+{"id": 92, "text": "社旗县2020年第三批农村道路建设用于郝寨镇道路建设项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 17, "engineer"]]}
+{"id": 93, "text": "广东省珠海航道事务中心磨刀门出海航道维护疏浚服务采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 24, "service"]]}
+{"id": 94, "text": "新乡市老干部活动中心室内健身器材项目询价公告新交采2009XJ153。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "purchaser"], [12, 16, "material"]]}
+{"id": 95, "text": "广东广电网络中山分公司仓库第三方盘点服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 20, "service"]]}
+{"id": 96, "text": "遂溪县城月镇中心卫生院升级建设项目EPC总承包（勘察、设计、施工）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 13, "engineer"]]}
+{"id": 97, "text": "芜湖古城三处重点建筑（芜湖衙署、城隍庙、文庙）施工图设计（C标段）招标/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[23, 28, "material"]]}
+{"id": 98, "text": "北安市教育局护眼改造工程。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [6, 12, "service"]]}
+{"id": 99, "text": "2019年和县教师办公电脑项目（重新采购）（MASCG2FH20190835）。", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "material"]]}
+{"id": 100, "text": "2018年第九师义务教育均衡发展设备采购项目（教学一体机）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 18, "material"], [5, 8, "purchaser"]]}
+{"id": 101, "text": "关于为【中山公园新建2座公厕工程监理】公开选取【工程监理】机构的公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "service"]]}
+{"id": 102, "text": "某大学基于飞参数据的某型飞机健康管理舰载机通用平台项目（二次）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 25, "material"]]}
+{"id": 103, "text": "清流县金星工业园西南片市政道路工程。", "meta": {}, "annotation_approver": null, "labels": [[13, 17, "engineer"]]}
+{"id": 104, "text": "松滋市金投·新城壹品建设项目无负压供水设备采购项目。", "meta": {}, "annotation_approver": null, "labels": [[14, 21, "material"]]}
+{"id": 105, "text": "广西裕能堆垛车。", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "material"]]}
+{"id": 106, "text": "[正在公告]校平机。", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "material"]]}
+{"id": 107, "text": "易普力天长公司2020年专营公司导爆索采购项目采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [16, 19, "material"]]}
+{"id": 108, "text": "中国(太原)煤炭交易中心市场化交易J021186预告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"]]}
+{"id": 109, "text": "实验室实验台(二次)采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "material"]]}
+{"id": 110, "text": "威海市环翠区人民法院关于威海市乐天世纪城3号D805至D810室（变卖）的公告(变卖)。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"]]}
+{"id": 111, "text": "安科瑞仪表冀中能源井陉矿业集团大有机电有限公司。", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "purchaser"]]}
+{"id": 112, "text": "田家街道锦江路、东方大街等区域绿化养护工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 21, "engineer"]]}
+{"id": 113, "text": "牛咀水库大坝安全鉴定项目邀请招标公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 10, "service"]]}
+{"id": 114, "text": "南京实强通讯产品有限公司关于更换5G门头的补充合同（实强通讯江景苑天翼手机卖场）的采购文件。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [16, 20, "material"]]}
+{"id": 115, "text": "广铁集团关于Y3048广州机务段机车维修用DF7C油位表垫（耐油产品，预）的项目公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [25, 29, "material"]]}
+{"id": 116, "text": "中国农业银行股份有限公司保定分行徐水林水、吴庄和陈庄自助银行装修工程。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [30, 34, "engineer"]]}
+{"id": 117, "text": "昆明市第十二中学新建工程选择招标代理机构公告(招标项目编号：E5301000003011828001信息来源：昆明市公共资源交易平台公共服务系统)。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [14, 20, "service"]]}
+{"id": 118, "text": "兴隆新城红石郡项目一期345678楼外墙保温及装饰工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 27, "engineer"]]}
+{"id": 119, "text": "福建农林大学金山校区第二餐厅经营管理项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [12, 18, "service"]]}
+{"id": 120, "text": "兴义市人民法院关于贵州省兴义市下午屯南村枫林一期A4幢1单元1层102号房屋（第二次拍卖）的公告(二次)。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [36, 38, "material"]]}
+{"id": 121, "text": "衡水市冀州区国土局晋煤银海化肥责任公司场地环境调查评估项目公开招标公告采购/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [22, 29, "service"]]}
+{"id": 122, "text": "银川市西夏区机关事务服务中心西夏区机关事务服务中心选定职工食堂粮油、食材供应商项目二标段（二次）项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 25, "purchaser"], [27, 33, "material"], [34, 36, "material"]]}
+{"id": 123, "text": "浙江宁波市海曙区石碶街道河道深水植物清理项目（重发）的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 20, "service"]]}
+{"id": 124, "text": "中铁一局广州分公司南玉铁路项目采购脚踏钢丝网片。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [17, 23, "material"]]}
+{"id": 125, "text": "白市驿场镇大件垃圾清运处置服务项目（第二次）采购公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "service"]]}
+{"id": 126, "text": "空气开关等。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"]]}
+{"id": 127, "text": "贵州省遵义至绥阳高速公路延伸线机电施工招标检测监测招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 19, "material"], [21, 25, "service"]]}
+{"id": 128, "text": "沈阳焦煤鸡西盛隆矿业有限责任公司矿用隔爆兼本质安全型交流变频器采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [26, 31, "material"]]}
+{"id": 129, "text": "中山西环高速公路（含小榄支线）项目沿线加油站经营权承包招标文件。", "meta": {}, "annotation_approver": null, "labels": [[19, 25, "service"]]}
+{"id": 130, "text": "浦东机场T1航站楼国际长廊区域机务用房装修工程。", "meta": {}, "annotation_approver": null, "labels": [[15, 23, "engineer"]]}
+{"id": 131, "text": "东平县戴庙镇杨岱村土地整治项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 15, "engineer"]]}
+{"id": 132, "text": "家纺一公司北区不锈钢法兰盘采购公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "material"]]}
+{"id": 133, "text": "综能公司6月手动阀询比价采购公告RZ18061800054。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [6, 9, "material"]]}
+{"id": 134, "text": "常德市第二人民医院住院楼二期道路及附属配套工程施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [14, 25, "engineer"]]}
+{"id": 135, "text": "泰安二中录像服务采购需求公示。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 8, "service"]]}
+{"id": 136, "text": "[甘肃省]甘肃省陇南市文县公安局交警大队文县城区交通安全设施标线项目询价公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 20, "purchaser"], [24, 32, "material"]]}
+{"id": 137, "text": "北京正德堂医药有限责任公司正德堂中西医结合门诊部,左氧氟沙星(可乐必妥,薄膜衣片,0.1g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 24, "purchaser"], [25, 30, "material"]]}
+{"id": 138, "text": "凯里市碧波镇专职消防队装备采购项目采购需求公示。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 13, "material"]]}
+{"id": 139, "text": "华能太仓电厂4C修检修部可调缩孔采购韩思远公开询价X09620080001延期询价公告202008100855。", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "material"], [0, 6, "purchaser"]]}
+{"id": 140, "text": "电容招标9.29。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"]]}
+{"id": 141, "text": "湖北中医药大学药学院设备购置、中医临床学院设备购置项目竞争性磋商采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [15, 21, "purchaser"], [10, 12, "material"], [21, 23, "material"]]}
+{"id": 142, "text": "HMXJ201800379包、华亭煤业调度绞车刹车总成配件询价公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 29, "material"]]}
+{"id": 143, "text": "宁波机场与物流发展集团有限公司空调公开询价的采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [15, 17, "material"]]}
+{"id": 144, "text": "2018年中国联通枣庄市分公司枢纽楼监控系统显示器改造项目公开竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "purchaser"], [18, 25, "material"]]}
+{"id": 145, "text": "宁波远洋运输有限公司新办公大楼弱电工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [15, 19, "service"]]}
+{"id": 146, "text": "比价采购公告编号：BD202004290009名称：JH20200427005生产厂物料采购申请(油漆4.27)采购类型：物资材料公告类型：采购公告。", "meta": {}, "annotation_approver": null, "labels": [[61, 65, "material"]]}
+{"id": 147, "text": "忻城县人民法院关于大立破机一套（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [9, 15, "material"]]}
+{"id": 148, "text": "青岛市城阳区文化新闻出版局城阳区2018年精准文化惠民演出服务项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [25, 31, "service"]]}
+{"id": 149, "text": "江西信衡招标咨询有限公司关于麻醉机、神经定位肌松监测仪、麻醉气体监测仪、自体血液回收机、C臂X光机、输血输液加温器采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 17, "material"], [18, 27, "material"], [28, 35, "material"], [36, 43, "material"], [44, 49, "material"], [50, 57, "material"]]}
+{"id": 150, "text": "省生态环境保护科技中心无人机航拍系统采购公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "service"], [0, 11, "purchaser"]]}
+{"id": 151, "text": "上海市青浦区中心医院患者营养订餐管理系统（第二次）采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [12, 20, "service"]]}
+{"id": 152, "text": "泰兴市人民法院关于泰兴市济川街道永大新都花城翠景园1幢406室房地产（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [30, 34, "material"]]}
+{"id": 153, "text": "市属事业单位服务效果公众评价项目（第二次）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 16, "service"]]}
+{"id": 154, "text": "省民宗委关于采购民族团结进步示范区建设规划中期评估暨十百千万工程总结评估采购项目A标段（二次招标）。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [8, 19, "engineer"], [30, 36, "service"]]}
+{"id": 155, "text": "安庆市宜秀区人民法院关于安庆市光彩大市场A611商业用房（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [24, 28, "material"]]}
+{"id": 156, "text": "离石区田家会东路（南段）道路工程项目设计施工总承包（EPC）其它。", "meta": {}, "annotation_approver": null, "labels": [[12, 30, "engineer"]]}
+{"id": 157, "text": "吉州区阳明西路南侧片区老旧小区改造项目简易程序招标公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 19, "engineer"]]}
+{"id": 158, "text": "首都医科大学附属北京朝阳医院（京西院区）,祖师麻片(无,薄膜衣片,0.3g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 25, "material"]]}
+{"id": 159, "text": "大庆市景园中学（让胡路区）航拍无人机采购B询价（网上竞价）公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [13, 18, "material"]]}
+{"id": 160, "text": "杭州地铁运营分公司2018届青年员工能力与素质提升班A类课程采购项目比选公告（二次）。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [28, 30, "material"]]}
+{"id": 161, "text": "空预器导向支撑润滑油询价2017112。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "material"]]}
+{"id": 162, "text": "淄博市2018年畜产品质量安全监测抽检承检机构定点采购备选库项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 23, "service"]]}
+{"id": 163, "text": "2018年政企线上渠道触点运营项目。", "meta": {}, "annotation_approver": null, "labels": [[9, 17, "service"]]}
+{"id": 164, "text": "霞浦县第一幼儿园教玩具采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [9, 11, "material"]]}
+{"id": 165, "text": "[都昌县]江西惠丰招标咨询有限公司都昌分公司关于都昌县思源实验学校城西分校强弱电机房设备采购项目(采购编号：JXHFZBDC19006)竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[37, 44, "purchaser"], [5, 22, "purchaser"], [24, 37, "purchaser"]]}
+{"id": 166, "text": "产业新城集团南京区域事业部江宁区域瑞鑫路新建及改造工程监理服务招标公告。", "meta": {}, "annotation_approver": null, "labels": [[23, 31, "engineer"], [0, 6, "purchaser"]]}
+{"id": 167, "text": "HYMP2020004号标段招标邀请函。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 168, "text": "复旦大学倒置荧光显微镜采购国际招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 11, "material"]]}
+{"id": 169, "text": "中国共产党宣汉县委员会组织部XHXL2019051401台式计算机商场直购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [28, 33, "material"]]}
+{"id": 170, "text": "永新县人防警报系统数字化改造采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "purchaser"], [3, 14, "service"]]}
+{"id": 171, "text": "武威市中级人民法院关于武威天创时代新型建材有限责任公司名下2厂房和4厂房土地使用权及地上附着物（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [36, 41, "material"], [42, 47, "material"]]}
+{"id": 172, "text": "韩店中心小学消防改造工程需求公示。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [6, 12, "material"]]}
+{"id": 173, "text": "昆山市体育中心发展有限公司关于大屏显示系统的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [15, 21, "service"]]}
+{"id": 174, "text": "陕蒙部挡板档环等询价单（石拉乌素矿）。", "meta": {}, "annotation_approver": null, "labels": [[3, 7, "material"]]}
+{"id": 175, "text": "2019年下半年零星绿化修缮工程的最高限价公示。", "meta": {}, "annotation_approver": null, "labels": [[8, 16, "engineer"]]}
+{"id": 176, "text": "衡阳市中级人民法院关于对衡阳市高新区长胜小区39栋302号房（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [29, 30, "material"]]}
+{"id": 177, "text": "高密度聚乙烯标志牌。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "material"]]}
+{"id": 178, "text": "物资华南85242018120030、包头生产江苏海狮泵配件20181129刘宝超62、8524201812030（带原厂信息）(一次)。", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "material"]]}
+{"id": 179, "text": "张家界市烟草专卖局（公司）基建办关于烟叶中心仓库建设工程监理项目。", "meta": {}, "annotation_approver": null, "labels": [[22, 30, "engineer"], [0, 13, "purchaser"]]}
+{"id": 180, "text": "郑州航空港经济综合实验区三官庙办事处机关餐厅服务对外承包公开招标项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[20, 24, "service"]]}
+{"id": 181, "text": "上海精新建筑装饰有限公司位于上海市普陀区桂巷路160号3年租赁权。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [29, 32, "service"]]}
+{"id": 182, "text": "阜新煤制天然气公司全厂工程车、消防车维修保养框架公开询价询价公告（变更）。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [18, 24, "material"]]}
+{"id": 183, "text": "嘉兴市千秋工程咨询有限公司关于南湖区2020年度互联网监管，专家把脉智慧环保项目第三方环保助手采购项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [40, 47, "service"]]}
+{"id": 184, "text": "防尘盖土网绿色三针。", "meta": {}, "annotation_approver": null, "labels": [[2, 5, "material"]]}
+{"id": 185, "text": "[正在报名][贵港市183;市辖区]广西众联工程项目管理有限公司关于中国人民解放军32571部队军史长廊建设项目（ZLZB2020GGS024）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 32, "purchaser"], [50, 56, "engineer"]]}
+{"id": 186, "text": "武川县上秃亥乡人民政府关于武川县上秃亥乡人民政府关于采购原粮存储工段（二）费用项目的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [28, 34, "material"], [13, 24, "purchaser"]]}
+{"id": 187, "text": "河津发电2020年供水7月份物资计划07。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 188, "text": "中交一航局第二工程有限公司梧州市苍海片区棚户区（城中村）改造项目商混招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [20, 32, "engineer"]]}
+{"id": 189, "text": "刘河镇花园港村农业种植0064。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "material"]]}
+{"id": 190, "text": "射洪市人民法院关于四川省射洪市太和镇虹桥路杨家四巷虹桥商城3幢1层11号营业用房（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [36, 40, "material"]]}
+{"id": 191, "text": "南通北城致豪房地产开发有限公司R14056地块项目R14056（万濠山庄）地下室机械停车设备供货及安装项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [40, 46, "material"]]}
+{"id": 192, "text": "招标公告：郑分开封恒大国际酒店项目塔吊租赁工程。", "meta": {}, "annotation_approver": null, "labels": [[17, 21, "service"]]}
+{"id": 193, "text": "关于上网行为管理设备1套的在线询价公告[浙江广播电视大学桐乡学院]。", "meta": {}, "annotation_approver": null, "labels": [[2, 10, "material"], [20, 32, "purchaser"]]}
+{"id": 194, "text": "关于阜阳市颍东部分道路两侧绿化日常管养第三方服务单位采购项目的答疑回复。", "meta": {}, "annotation_approver": null, "labels": [[13, 19, "service"]]}
+{"id": 195, "text": "国网河南省电力公司平顶山供电公司2020年第六批授权地市采购服务项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"]]}
+{"id": 196, "text": "【青岛】宫迟路大修工程施工。", "meta": {}, "annotation_approver": null, "labels": [[6, 11, "engineer"]]}
+{"id": 197, "text": "东墟镇南陶墟村外网给水改造项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 15, "service"]]}
+{"id": 198, "text": "附件.pdf监测系统运维服务村、社区空气质量自动监测系统运维服务招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 32, "service"], [6, 14, "service"]]}
+{"id": 199, "text": "佛山市顺德区人民法院关于位于佛山市顺德区容桂街道小黄圃社区外环路14号东逸湾倚湖居222号汽车位（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [45, 48, "material"]]}
+{"id": 200, "text": "泗洪县公安局雪亮工程建设项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [6, 14, "engineer"]]}
+{"id": 201, "text": "巴塘县波密乡人民政府PT20191011011文件柜网上竞价项目(第13次)采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [23, 26, "material"]]}
+{"id": 202, "text": "[0]沭阳县湾河新城安置小区工程的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 16, "material"]]}
+{"id": 203, "text": "中共廊坊市委网络安全和信息化委员会办公室公务网络平台传输设备升级改造项目公开招标。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [26, 34, "service"]]}
+{"id": 204, "text": "中国铁路南宁局集团有限公司合金钢组合辙叉、高锰钢辙叉采购项目招标二次公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [13, 20, "material"], [21, 26, "material"]]}
+{"id": 205, "text": "山西济通科技有限公司90%股权转让。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [13, 15, "material"]]}
+{"id": 206, "text": "上海振华重工集团JYGB1803002项目钢材招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [21, 23, "material"]]}
+{"id": 207, "text": "150MW！中广核贵州光伏电站项目EPC招标公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 20, "engineer"]]}
+{"id": 208, "text": "南充现代物流园Ec6号地块土石方工程。", "meta": {}, "annotation_approver": null, "labels": [[13, 18, "engineer"]]}
+{"id": 209, "text": "上海宝钢磁业有限公司2020年9月分散剂、消泡剂（海门上海）。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [17, 20, "material"], [21, 24, "material"]]}
+{"id": 210, "text": "巢湖市庙岗乡2020年高标准农田建设项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [11, 20, "engineer"]]}
+{"id": 211, "text": "安徽省广电局2007年度广播电视节目无线覆盖设备采购及安装工程招标项目招标文件说明函(招标编号：AHH2007677)。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [18, 24, "material"]]}
+{"id": 212, "text": "2018年玉树5处气体灭火钢瓶及附属设备检测比选公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 22, "service"]]}
+{"id": 213, "text": "大唐华北电力运营有限公司第3次汽车租赁项目询价采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [15, 19, "service"]]}
+{"id": 214, "text": "除盐水系统备件采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "material"]]}
+{"id": 215, "text": "淅川县第二污水处理厂污染源在线监测设备及运行维护服务采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [15, 19, "material"], [20, 26, "service"]]}
+{"id": 216, "text": "2018105关于杭州师范大学医学院仪器设备采购的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 18, "purchaser"], [18, 22, "material"]]}
+{"id": 217, "text": "中铁建工集团盐通铁路工程机电安装项目采购方形吸顶灯一批。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [12, 16, "service"], [22, 25, "material"]]}
+{"id": 218, "text": "魏县县域节水型社会达标建设项目招标公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 219, "text": "龙华区创新实验学校食堂管理服务采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 15, "service"]]}
+{"id": 220, "text": "山西宁武县农村饮水安全巩固提升工程化北屯乡陈半沟村提水工程（水源机井）谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [25, 29, "engineer"]]}
+{"id": 221, "text": "万州经开区高峰园檬子北区标准厂房建设项目（一期）设备基础设计。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 18, "engineer"]]}
+{"id": 222, "text": "厦门中实公开招标2019ZS2206分光光度仪、条码检测仪招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 23, "material"], [24, 29, "material"]]}
+{"id": 223, "text": "福州市长乐区鹤上镇镇区垃圾中转站提升改造及运营管理服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 20, "engineer"], [21, 27, "service"]]}
+{"id": 224, "text": "海宁经济开发区（海昌街道）双联路（兴业路~迎金路）等工程。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 225, "text": "阜新项目仪表保温箱采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 9, "material"]]}
+{"id": 226, "text": "配电间扩容改造项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[3, 7, "engineer"]]}
+{"id": 227, "text": "厦门利德集团有限公司2019年9月至2020年8月份水泥杆集中采购项目（二次招标）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [26, 29, "material"]]}
+{"id": 228, "text": "中铁武汉电气化局集团第一工程有限公司怀柳电气化改造工程6月10辅材。", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "purchaser"], [20, 27, "engineer"]]}
+{"id": 229, "text": "北京市海淀区上庄镇梅所屯社区卫生服务站,阿法骨化醇(无,软胶囊(胶丸),0.25μg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 25, "material"]]}
+{"id": 230, "text": "【双鸭山】四方台区主城区三供一业供水基础设施改造工程第二标段。", "meta": {}, "annotation_approver": null, "labels": [[18, 24, "engineer"]]}
+{"id": 231, "text": "济南信息工程学校济南信息工程学校应用软件询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [16, 20, "service"], [8, 16, "purchaser"]]}
+{"id": 232, "text": "【烟台市】烟台工程职业技术学院体育设备采购公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "purchaser"], [15, 19, "material"]]}
+{"id": 233, "text": "丰台区马家堡街道角门东里社区卫生服务站,二甲双胍(格华止,薄膜衣片,0.5g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 24, "material"]]}
+{"id": 234, "text": "广东省恩平市恩城街道办事处公仔河水源补给工程泵房设备及电气设施项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [22, 26, "material"]]}
+{"id": 235, "text": "浙江中瑞工程管理有限公司关于湖州市吴兴区环渚街道办事处环渚街道环境综合整治零星用工服务外包项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [39, 45, "service"]]}
+{"id": 236, "text": "【芜湖】官陡街道境内权属不清道路保洁服务项目（二次招标）。", "meta": {}, "annotation_approver": null, "labels": [[16, 20, "service"]]}
+{"id": 237, "text": "龙岩市新罗区残疾人联合会新罗区残联老年残疾人精准康复服务采购项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [24, 28, "service"]]}
+{"id": 238, "text": "（编号：NBGXCG190792）宁波广兴工程管理有限公司关于慈溪市新城河区块一期改造PPP项目财务审查采购项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 29, "purchaser"], [48, 52, "service"]]}
+{"id": 239, "text": "北京市怀柔区交通局怀柔区移动卡口执勤站(二次招标）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [16, 19, "material"]]}
+{"id": 240, "text": "遂宁市大英县政府采购中心医疗设备供货竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 16, "material"]]}
+{"id": 241, "text": "河源市交通运输局河源市交通运输局音响设备采购采购计划。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [16, 20, "material"], [8, 16, "purchaser"]]}
+{"id": 242, "text": "2020年9月10日广东省新冠肺炎疫情情况。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 243, "text": "嘉祥县体育中心马村镇银马社区健身中心健身设施采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "material"]]}
+{"id": 244, "text": "新余四中第五教学楼数字广播系统采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [9, 15, "material"]]}
+{"id": 245, "text": "文物保护单位建控地带测绘服务竞争性磋商采购招标采购公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "service"]]}
+{"id": 246, "text": "新源村村庄道路建设及杨村自然村环境整治工程。", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "engineer"], [15, 21, "engineer"]]}
+{"id": 247, "text": "2020年大气咨询服务项目。", "meta": {}, "annotation_approver": null, "labels": [[5, 11, "service"]]}
+{"id": 248, "text": "智能机井材料3招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "material"]]}
+{"id": 249, "text": "佛山市南海区西樵镇水利排灌养护站西樵镇大栅片内河涌2018年至2020年长效目标管理公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [38, 42, "service"]]}
+{"id": 250, "text": "广铁物资设备采购供应所关于Y4596海口综合维修段材料一批采购的项目公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [20, 27, "material"]]}
+{"id": 251, "text": "上海市龙华烈士陵园（龙华烈士纪念馆）二级大平台南平台改造工程的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[24, 30, "material"]]}
+{"id": 252, "text": "开祥精细化工电动工具询价公告RZ19010700057。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "material"]]}
+{"id": 253, "text": "天津地铁9号线小半径曲线换轨及胡家园车辆段、钢管公司联络线整体更换混凝土枕项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[33, 37, "material"], [26, 33, "engineer"]]}
+{"id": 254, "text": "资阳市安岳县南山片区党政办公大楼空调设备采购公告(第二次)。", "meta": {}, "annotation_approver": null, "labels": [[17, 21, "material"]]}
+{"id": 255, "text": "安徽省合肥市地震局地震台建安工程项目及地震观测井工程项目招标邀请。", "meta": {}, "annotation_approver": null, "labels": [[19, 26, "engineer"], [12, 16, "engineer"], [0, 9, "purchaser"]]}
+{"id": 256, "text": "河南商丘经济开发区管委会关于河南商丘经济开发区办公楼外墙装修改造工程施工公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [28, 36, "engineer"]]}
+{"id": 257, "text": "桐乡市石门镇水系连通专项整治项目民联村河道整治工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 25, "engineer"]]}
+{"id": 258, "text": "Z1302241700552001滦南县国税局综合业务办公用房维修项目取暖改造工程采购公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "purchaser"], [30, 33, "engineer"], [35, 41, "engineer"]]}
+{"id": 259, "text": "山西大同煤矿集团大斗沟煤业有限公司生活污水处理（同忻三盘区）项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [17, 23, "service"]]}
+{"id": 260, "text": "玉钢公司急件技术中心用海尔空调（10192245计划）。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [13, 15, "material"]]}
+{"id": 261, "text": "桐城师范高等专科学校20172018学年教材征订采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [20, 22, "material"]]}
+{"id": 262, "text": "博览园锅炉房维修工程项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[3, 10, "engineer"]]}
+{"id": 263, "text": "招商蛇口深圳公司太子湾0201、03地块幕墙预埋件工程及办公区临时幕墙工程公开招标。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [33, 37, "engineer"]]}
+{"id": 264, "text": "南涧彝族自治县中医医院立式空调反向竞价采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 265, "text": "叶城县2020年林果提质增效有机肥、石硫合剂采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "material"], [18, 22, "material"]]}
+{"id": 266, "text": "云之龙招标集团有限公司特警装备采购GXZC2019J126061GXYL竞标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 267, "text": "珠海经济技术开发区（高栏港经济区）管理委员会规划建设环保局高栏港经济区海绵城市分区专项规划编制服务采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 29, "purchaser"], [43, 49, "service"]]}
+{"id": 268, "text": "智慧园区给水管网建设一期工程施工、监理。", "meta": {}, "annotation_approver": null, "labels": [[4, 10, "engineer"]]}
+{"id": 269, "text": "内蒙古荣信化工有限公司带压堵漏框架项目公开招标招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"]]}
+{"id": 270, "text": "峨眉山市人民法院关于四川省乐山市市中区金水湾路899号30幢3单元7楼3号房产（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [37, 39, "material"]]}
+{"id": 271, "text": "张浦农贸市场改造项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 10, "engineer"]]}
+{"id": 272, "text": "筠连县中学B区新建项目勘察设计。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [11, 15, "engineer"]]}
+{"id": 273, "text": "溶解乙炔、精乙炔、丙烷一批重庆钢铁(设备管理部)。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"], [5, 8, "material"], [9, 11, "material"]]}
+{"id": 274, "text": "上海南站广场设施设备更新改造工程。", "meta": {}, "annotation_approver": null, "labels": [[6, 14, "engineer"]]}
+{"id": 275, "text": "【公开招标】检测设备采购项目的公开招标采购公告（JYGQ2019G027）。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "material"]]}
+{"id": 276, "text": "昆明市西山区马街中心学校关于台式计算机20台的在线询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 19, "material"]]}
+{"id": 277, "text": "武汉地质调查中心U盘采购项目竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 10, "material"]]}
+{"id": 278, "text": "北京丰台三路居中西医结合医院,布地奈德(雷诺考特,鼻用喷雾剂,64μg/喷,120喷)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [15, 19, "material"]]}
+{"id": 279, "text": "北京市延庆区井庄镇社区卫生服务中心,双氯芬酸(扶他林,缓释片,75mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [18, 22, "material"]]}
+{"id": 280, "text": "[招标公告]广西建业中天工程咨询有限公司关于学生课桌椅、床铺及教师办公桌椅采购（项目编号：JYZTGL2017J1108）竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 20, "purchaser"], [22, 27, "material"], [28, 30, "material"], [31, 37, "material"]]}
+{"id": 281, "text": "南乐县张果屯镇南街村财政奖补美丽乡村建设试点项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 20, "engineer"]]}
+{"id": 282, "text": "绍兴市越城区人民法院关于绍兴市柯桥区钱清镇外枢村的二宗国有土地使用权、地上建筑物及附属物（含室内固定装饰装修）（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [29, 34, "material"], [35, 40, "material"], [41, 44, "material"], [48, 54, "engineer"]]}
+{"id": 283, "text": "中和环保12月份自动包装设备配件采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [12, 16, "material"]]}
+{"id": 284, "text": "上蔡县住房委员会办公室关于上蔡县2011年保障性住房建设项目监理公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [24, 32, "engineer"]]}
+{"id": 285, "text": "中山市南头三鑫学校宿舍楼(第2次)。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 12, "material"]]}
+{"id": 286, "text": "邯郸广金农业科技有限公司粮食产后服务中心项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 18, "service"]]}
+{"id": 287, "text": "孔雀城住宅沈秦分公司秦皇岛片区营销管理部劳务派遣招标（非集采类）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[20, 24, "material"], [0, 10, "purchaser"]]}
+{"id": 288, "text": "北京市丰台区花乡黄土岗村社区卫生服务站,藿香正气软胶囊(无,软胶囊(胶丸),0.45g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 27, "material"]]}
+{"id": 289, "text": "湖南大唐节能科技有限公司DCS卡件询价询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 17, "material"]]}
+{"id": 290, "text": "华电燃机项目配套电力通道工程及春园路综合整治电力通道工程勘察设计招标公告（二次）。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "engineer"], [22, 32, "engineer"]]}
+{"id": 291, "text": "金华市综保公共仓储管理有限公司AGV智能物流系统项目（重新招标）采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [15, 24, "service"]]}
+{"id": 292, "text": "[新]如皋市白蒲镇2020年一事一议财政奖补道路工程一标段资格后审公告。", "meta": {}, "annotation_approver": null, "labels": [[22, 26, "engineer"]]}
+{"id": 293, "text": "电气配件等。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"]]}
+{"id": 294, "text": "东营市河口区广播电视台海信液晶电视项目政府采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [15, 17, "material"]]}
+{"id": 295, "text": "抚州市东乡区人民法院关于拍卖李志中、李早梅所有的抚州市东乡区东红工业大道御景东方1栋4单元602室一处住宅房地产（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [51, 56, "material"]]}
+{"id": 296, "text": "三龙镇分类垃圾桶购置项目。", "meta": {}, "annotation_approver": null, "labels": [[5, 8, "material"]]}
+{"id": 297, "text": "立人花园一区安置小区物业管理服务外包项目。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "service"]]}
+{"id": 298, "text": "江西省机电设备招标有限公司关于江西省广丰区大南镇卫生院高频肛肠治疗仪采购项目（招标编号：JXTCSR2019140077）询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [31, 34, "material"], [15, 27, "purchaser"]]}
+{"id": 299, "text": "罗湖区桃园路37号桃花园1号厂房1层东侧及23楼物业招租信息公告。", "meta": {}, "annotation_approver": null, "labels": [[24, 28, "service"]]}
+{"id": 300, "text": "友爱南路22号南棉街157号。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 301, "text": "东明县马头镇中心卫生院医疗设备采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 302, "text": "秦山地区9台机组厂区垃圾处置外委项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "service"]]}
+{"id": 303, "text": "新疆楷源工程项目管理有限责任公司关于和田地区2020年多胎肉羊产业发展疫苗物资采购项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [35, 39, "material"]]}
+{"id": 304, "text": "系统集成1109。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 305, "text": "天长市中医院新区建设项目工程规划建筑设计【网】。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [16, 20, "service"]]}
+{"id": 306, "text": "2020年度长江经济带生态保护修复资金项目达日县生态环境保护治理项目标段一、标段二、标段三、标段四、标段七、标段九、标段一十、标段一十四、标段一十六、标段一十七、标段一十八、标段一十九、标段二十一、标段二十四、标段二十七、标段五、标段六、标段八、标段一十一、标段一十二、标段一十三、标段一十五、标段二十、标段二十二、标段二十三、标段二十五、标段。", "meta": {}, "annotation_approver": null, "labels": [[28, 34, "engineer"]]}
+{"id": 307, "text": "哈密地区公安局警务技能训练基地及警犬用房建设项目招标公告【监理】。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [18, 22, "engineer"]]}
+{"id": 308, "text": "滨州市滨城区东城中学院墙工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 14, "engineer"]]}
+{"id": 309, "text": "丰顺县汤南镇中心卫生院医疗设备采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 310, "text": "福州市马尾区政府采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"]]}
+{"id": 311, "text": "安宁市公安局交通警察大队购入惠普HP254NW彩色打印机采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [25, 28, "material"]]}
+{"id": 312, "text": "新郑市社会福利中心购置电子产品竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [11, 15, "material"]]}
+{"id": 313, "text": "庆元县公共资源交易中心关于县环保局环境监控系统设备（含安装）项目的询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [19, 23, "material"]]}
+{"id": 314, "text": "安徽省立医院术中连续血氧饱和度监护仪二次比选采购信息（招采）。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [15, 18, "material"]]}
+{"id": 315, "text": "吴江市区道路摩托车闯禁区自动监测记录系统招标公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 20, "service"]]}
+{"id": 316, "text": "鲁西集团精制工业盐询价单20190505。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 9, "material"]]}
+{"id": 317, "text": "A6201000001002342001001招标文件。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 318, "text": "北京市东城区人民法院关于4号钢琴一台（变卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [14, 16, "material"]]}
+{"id": 319, "text": "龙岩市福化环保科技有限公司2021年度广告品（服务）年度供应商遴选项目比选公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [19, 22, "service"]]}
+{"id": 320, "text": "天津市市容环境管理委员会软件开发项目采购信息公告TGPC2008D0142。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 14, "material"]]}
+{"id": 321, "text": "南海新区小观镇永安街人行道及附属工程(施工)不分标段招标文件。", "meta": {}, "annotation_approver": null, "labels": [[10, 18, "engineer"]]}
+{"id": 322, "text": "关于杭州市旅游委员会后峰会国际会议目的地媒体公关宣传第三方监播项目的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 10, "purchaser"], [20, 26, "service"]]}
+{"id": 323, "text": "金坛香格里拉小区四期箱式变压器采购招标招标/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "material"]]}
+{"id": 324, "text": "巴彦淖尔市临河区人民法院关于拍卖被执行人王伟所有的位于巴彦淖尔市临河区海贝尔花园G14103门店G111404号门店（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [56, 58, "material"]]}
+{"id": 325, "text": "平鲁区四好农村路;建制村硬化路工程施工招标控制价。", "meta": {}, "annotation_approver": null, "labels": [[12, 19, "engineer"]]}
+{"id": 326, "text": "乌鲁木齐市新市区人民法院关于石河子市北泉镇北泉路282栋8号室房地产（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [32, 34, "material"]]}
+{"id": 327, "text": "中山职业技术学院竞价公告(CB140662020000778)三灯主播套装K,美音神器套餐。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [33, 37, "material"], [41, 45, "material"]]}
+{"id": 328, "text": "北京市西城区首都医科大学附属复兴医院月坛社区卫生服务中心,护肝胶囊(无,胶囊剂,0.35g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 28, "purchaser"], [29, 33, "material"]]}
+{"id": 329, "text": "对外经济贸易大学消防救生滑道设备购置及安装工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 16, "material"]]}
+{"id": 330, "text": "2018年原油产能建设地面工程框架入围招标风城及环玛湖稀油（自营区）。", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "engineer"]]}
+{"id": 331, "text": "中节能（秦皇岛）环保能源有限公司消石灰采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [16, 19, "material"]]}
+{"id": 332, "text": "【物资类】中国电建水电十一局第二分局二分局河南天池上下库C1标项目铜止水采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 18, "purchaser"], [33, 36, "material"]]}
+{"id": 333, "text": "E6301000076009210001001的招标文件。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 334, "text": "招标公告：351国道龙游横山至开化华埠项目部水泥材料集中公开招标（包件2）。", "meta": {}, "annotation_approver": null, "labels": [[22, 26, "material"]]}
+{"id": 335, "text": "宣威市人民法院关于宣威市文化路新天地国际家居博览中心9幢19号房产（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [31, 33, "material"]]}
+{"id": 336, "text": "【济南城建】爆破公司济南裴家营项目不锈钢止水钢板3*300mm232米询价采购优质采购商一年零投诉。", "meta": {}, "annotation_approver": null, "labels": [[1, 5, "purchaser"], [20, 24, "material"]]}
+{"id": 337, "text": "国网浙江省电力公司2013年度第10批废旧物资集中处置竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [19, 23, "material"]]}
+{"id": 338, "text": "长沙市岳麓区人民法院关于衡阳市珠晖区广东路7号新世纪大厦1157号（变卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [26, 28, "material"]]}
+{"id": 339, "text": "盐湖区五龙峪综合治理项目监理。", "meta": {}, "annotation_approver": null, "labels": [[6, 14, "engineer"]]}
+{"id": 340, "text": "拉萨大桥安全监测评估项目。", "meta": {}, "annotation_approver": null, "labels": [[3, 8, "service"]]}
+{"id": 341, "text": "广西科联招标中心关于桂平市郁江东路改造工程施工监理服务（KLGPFG2009062）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [21, 27, "engineer"]]}
+{"id": 342, "text": "采购45吨新疆长绒棉（长度38及强力43以上）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 10, "material"]]}
+{"id": 343, "text": "浙江BJ项目LOT75CSBO柴油发电机组采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "material"]]}
+{"id": 344, "text": "LZG10108关于测绘定点服务项目采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 16, "service"]]}
+{"id": 345, "text": "昆明市五华区人民法院关于昆明市尚义街万寿巷20号2单元213号房屋（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [31, 33, "material"]]}
+{"id": 346, "text": "北京市平谷区平谷镇金乡小区社区卫生服务站,复方金钱草颗粒(无,颗粒剂,每袋装3g(相当于饮片4.9g))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 28, "material"]]}
+{"id": 370, "text": "樟树市2020年度统筹整合资金推进高标准农田建设项目施工监理一标段招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 30, "engineer"]]}
+{"id": 371, "text": "武汉局集团公司物资设备采购供应所关于无线调车灯显设备数字监控对讲机采购的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [7, 11, "material"], [30, 33, "material"]]}
+{"id": 372, "text": "国六车型新增标准件采购公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "material"]]}
+{"id": 373, "text": "上饶市瑞弘招标咨询有限公司关于江西省上饶市信州区水南街道下滩头社区居民委员会水南街道下滩头社区辖区环境提升改造项目（项目编号：RHZB2020070）竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [49, 55, "engineer"]]}
+{"id": 374, "text": "乐山师范学院2020年大宗物资（调味品及干杂）采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [11, 15, "material"], [16, 19, "material"]]}
+{"id": 375, "text": "福建省福州市环境卫生管理处洒水车、扫路车采购项目招标通告。", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "material"], [17, 20, "material"], [0, 13, "purchaser"]]}
+{"id": 376, "text": "遵义市供水有限责任公司北郊水厂游泳馆公开招租竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [20, 22, "service"]]}
+{"id": 377, "text": "鳌峰小区2号楼01店面。", "meta": {}, "annotation_approver": null, "labels": [[9, 11, "service"]]}
+{"id": 378, "text": "深圳市宝安区政府采购中心弃婴、老人生活区及公共活动场所铺设PVC卷材防滑地板招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [34, 38, "material"], [29, 34, "material"]]}
+{"id": 379, "text": "灵寿县县城人民路以北（包含人民路）交通道路标线工程。", "meta": {}, "annotation_approver": null, "labels": [[17, 25, "engineer"]]}
+{"id": 380, "text": "苏州供电公司2018年第四批新建居住区工程招标项目二古澄花园动迁小区一期、苏地2011B57号地块等小区高压开关柜。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [54, 57, "material"]]}
+{"id": 381, "text": "[JJ202000790]工作站网上竞价公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 382, "text": "办公电脑。", "meta": {}, "annotation_approver": null, "labels": [[2, 4, "material"]]}
+{"id": 383, "text": "港湾学校日常家电(P20110123895)。", "meta": {}, "annotation_approver": null, "labels": [[6, 8, "material"]]}
+{"id": 384, "text": "【资格后审】DCX2017008道场乡施家桥村朱家墩至工业园区道路工程（重新招标。", "meta": {}, "annotation_approver": null, "labels": [[31, 35, "engineer"]]}
+{"id": 385, "text": "东平县大中型水库移民后期扶持银山镇后银山村20152018年度环境综合整治等25个项目四标段。", "meta": {}, "annotation_approver": null, "labels": [[33, 37, "service"]]}
+{"id": 386, "text": "武昌区东安路8号等5处200㎡以上经营房屋租赁项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "service"]]}
+{"id": 387, "text": "中山市人民医院台式电脑及相关设备采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [9, 11, "material"]]}
+{"id": 388, "text": "广东烟草梅州市有限公司大埔县分公司文化中心改造项目竞争性谈判。", "meta": {}, "annotation_approver": null, "labels": [[21, 25, "engineer"], [0, 17, "purchaser"]]}
+{"id": 389, "text": "广西湘益工程造价咨询有限公司关于大明山大门至天坪预警监控预警系统运维（重1）（项目编号：NNZC2018J300002XYZJ）竞争性谈判公告采购/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [28, 34, "service"]]}
+{"id": 390, "text": "中国铁塔股份有限公司景德镇市分公司2020年景德镇学院综合布线采购项目比选公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [27, 31, "material"], [22, 27, "purchaser"]]}
+{"id": 391, "text": "衡阳市西园农副产品批发大市场有限公司、长沙市明福园艺产品销售有限公司两户债权收益权挂牌公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "purchaser"], [19, 34, "purchaser"], [36, 41, "material"]]}
+{"id": 392, "text": "2020年秋季校本教材印刷资料网上询价公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "material"]]}
+{"id": 393, "text": "赤峰市巴林右旗大板防洪及环城水系综合治理PPP项目施工监理第一标段招标。", "meta": {}, "annotation_approver": null, "labels": [[14, 29, "engineer"]]}
+{"id": 394, "text": "中铁二局第二工程有限公司昌赣四分部项目2019.5.5五金料询价。", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "material"], [0, 12, "purchaser"]]}
+{"id": 395, "text": "北京市朝阳区豆各庄社区卫生服务中心,匹伐他汀钙(无,薄膜衣片,2mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [18, 23, "material"]]}
+{"id": 396, "text": "临城县临城大道路灯供货项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 9, "material"]]}
+{"id": 397, "text": "妇幼保健院设备购置项目（B包）、（A包）公开招标二次交易公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [5, 7, "material"]]}
+{"id": 398, "text": "嘉兴市银建工程咨询评估有限公司关于平湖市时代传媒有限公司LED电子屏采购项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [28, 34, "material"], [17, 28, "purchaser"]]}
+{"id": 399, "text": "海逸村（二期）项目全过程造价咨询。", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "service"]]}
+{"id": 400, "text": "湖北国华招标有限公司关于阳新县浮屠镇街道亮化工程项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [18, 24, "engineer"]]}
+{"id": 401, "text": "关于麟游县2018年上半年办公设备批量采购项目邀请招标公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 17, "material"]]}
+{"id": 402, "text": "研究生宿舍二期空气源热泵系统采购及相关服务（第三次公告）。", "meta": {}, "annotation_approver": null, "labels": [[7, 12, "material"]]}
+{"id": 403, "text": "武钢资源集团有限公司金山店矿化工油料询价180611。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [13, 18, "material"]]}
+{"id": 404, "text": "泗洪县新华书店仓库改造工程。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "engineer"], [0, 7, "purchaser"]]}
+{"id": 405, "text": "[上犹县]九鼎赣饶中介服务咨询有限公司关于江西省上犹县茶果局、上犹县平富学校、上犹县营前镇人民政府、上犹县城市管理局、中国人民解放军江西省上犹县人民武装部、上犹县社溪镇中心卫生院、上犹县现代服务业攻。", "meta": {}, "annotation_approver": null, "labels": [[5, 19, "purchaser"], [21, 30, "purchaser"], [31, 38, "purchaser"], [39, 49, "purchaser"], [50, 58, "purchaser"], [59, 77, "purchaser"], [78, 89, "purchaser"]]}
+{"id": 406, "text": "Z130000192139河北医科大学2019年中央支持地方高校改革发展资金专业建设设备购置集采1公开招标。", "meta": {}, "annotation_approver": null, "labels": [[13, 19, "purchaser"], [38, 44, "material"]]}
+{"id": 407, "text": "【烟台市】烟台汽车工程职业学院专业课程等软件系统采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "purchaser"], [20, 22, "material"]]}
+{"id": 408, "text": "张水公司花草租摆项目询价采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 8, "service"]]}
+{"id": 409, "text": "福建农林大学恒压过滤常数测定实验装置（板框过滤）、洞道式干燥实验装置采购项目网上竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [14, 18, "material"], [30, 34, "material"]]}
+{"id": 410, "text": "云之龙招标集团有限公司医疗设备采购（重）GXBSZC2018G11004SYL公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 411, "text": "沂水县诸葛镇现代高效生态农业科技园区(511)大棚工程施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "purchaser"], [23, 29, "engineer"]]}
+{"id": 412, "text": "北京市朝阳区垡头社区卫生服务中心,莫米松(无,乳膏剂,20g:20mg(0.1%))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [17, 20, "material"]]}
+{"id": 413, "text": "道真中油CNG加气母站工程。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "engineer"]]}
+{"id": 414, "text": "廉政宣教室建设公开招标公告(2019LZXJ1005)。", "meta": {}, "annotation_approver": null, "labels": [[3, 7, "engineer"]]}
+{"id": 415, "text": "牟定县文庙街派出所住宅小区、文庙街园丁居住宅小区、老土产公司住宅小区、南大街五交化公司住宅小区、茅阳路保险公司住宅小区、计生服务站小区、民政局小区改造配套基础设施建设项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[71, 83, "engineer"]]}
+{"id": 416, "text": "[X1902872]2019年10月信立泰509车间及其配套罐区机电安装工程碳钢管采购计划。", "meta": {}, "annotation_approver": null, "labels": [[38, 41, "material"], [32, 38, "engineer"]]}
+{"id": 417, "text": "关于为【肇庆高新区麒麟湖片区发展综合提升项目麒麟湖周边路网及麒麟湖生态湿地修复工程、大旺大道快速化立体交通升级改造工程(大旺大桥至创新大街段）测绘】公开选取【测绘】机构的公告。", "meta": {}, "annotation_approver": null, "labels": [[33, 41, "engineer"], [51, 59, "engineer"], [79, 81, "engineer"]]}
+{"id": 418, "text": "广铁物资采购所关于X2355（2018）怀化电务段绝缘胶带等采购的项目公告。", "meta": {}, "annotation_approver": null, "labels": [[25, 29, "material"]]}
+{"id": 419, "text": "电瓶车维护保养。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"]]}
+{"id": 420, "text": "化工公司煤制油2020年9月焊条等杂品（7101202009P00038）询价采购。", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "material"], [14, 16, "material"]]}
+{"id": 421, "text": "通江县人民法院关于通江县诺江镇城南村六社城南茗苑B栋1101号1202号住宅（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [36, 38, "material"]]}
+{"id": 422, "text": "九江长江大桥（一桥）公路桥加固改造工程项目伸缩缝采购及安装SSF标段施工招标公告及招标文件。", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "material"], [12, 19, "engineer"]]}
+{"id": 423, "text": "塔里木油田老井重复改造工艺技术完善与推广（2020年）。", "meta": {}, "annotation_approver": null, "labels": [[5, 11, "engineer"]]}
+{"id": 424, "text": "[自治区]宁夏1：2000基础地理信息数据库及多库合一（数据库管理系统建设及成果数据入库）采购项目招标异常公告。", "meta": {}, "annotation_approver": null, "labels": [[28, 37, "service"], [38, 44, "service"]]}
+{"id": 425, "text": "呼叫中心客服与管理实训室项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "service"]]}
+{"id": 426, "text": "北京市海淀区实验小学劳务派遣项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 14, "service"]]}
+{"id": 427, "text": "渭源县2020年大安至毛家湾公路等17条农村公路安全生命防护工程（第三标段）招标文件。", "meta": {}, "annotation_approver": null, "labels": [[22, 32, "engineer"]]}
+{"id": 428, "text": "【物资类】中国电建建筑公司三公司佛山泛悦公馆铝合金模板租赁采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 13, "purchaser"], [22, 27, "material"]]}
+{"id": 429, "text": "岚山化工园区污水处理工程（一期续建工程）工艺设备供货安装与调试项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 12, "engineer"], [20, 24, "material"]]}
+{"id": 430, "text": "周口市川汇区人民法院关于沈丘县颍河大道世纪衡桥东侧金岭世衡广场13111号铺（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [37, 38, "material"]]}
+{"id": 431, "text": "中山市三乡镇中心幼儿园计算机设备维修和保养服务定点采购议价信息。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 23, "service"]]}
+{"id": 432, "text": "包头市轻工职业技术学院简易采购采购公告(项目编号包采公〔2012〕145号)。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"]]}
+{"id": 433, "text": "（分散采购）浙江省成套招标代理有限公司关于衢州市公安局衢江分局一体化信息采集仪设备采购项目公开招标的采购公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 19, "purchaser"], [34, 41, "material"], [21, 31, "purchaser"]]}
+{"id": 434, "text": "炎陵县2017年度城乡建设用地增减挂钩项目（一、二期）实施方案编制服务采购。", "meta": {}, "annotation_approver": null, "labels": [[27, 35, "service"], [9, 19, "engineer"]]}
+{"id": 435, "text": "中铁二十二局集团第一工程有限公司白音华高精铝板带长铁路专用线工程CP总承包项目部178X墨镜、透明胶带询价。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [44, 46, "material"], [47, 51, "material"], [25, 32, "engineer"]]}
+{"id": 436, "text": "关于杭州千岛湖淳六味公司仓储加工冷库项目公开招标（非政府采购项目）[杭州千岛湖淳六味农业发展有限公司]。", "meta": {}, "annotation_approver": null, "labels": [[2, 12, "purchaser"], [12, 18, "material"], [34, 50, "purchaser"]]}
+{"id": 437, "text": "北京市宣武中医医院,氟比洛芬(无,凝胶膏剂,12g:40mg(13.6cm215;10cm))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [10, 14, "material"]]}
+{"id": 438, "text": "穆棱、依兰、虎林、汤原SL1500偏航齿圈润滑脂。", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "material"]]}
+{"id": 439, "text": "上海国际招标有限公司关于虹桥机场东交通中心电梯加装视频监控项目及围界监控系统机坪货运道口新增固定摄像机项目（项目编号：15602138）的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [25, 29, "material"], [48, 51, "material"], [21, 23, "material"]]}
+{"id": 440, "text": "武强宾馆装修家具采购竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 8, "material"]]}
+{"id": 441, "text": "澄阳街道垃圾中转站项目。", "meta": {}, "annotation_approver": null, "labels": [[4, 9, "material"]]}
+{"id": 442, "text": "20182019年度江苏联通3G版无线固话终端采购项目。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "material"]]}
+{"id": 443, "text": "南浦路335号公交始发站6营业房招租公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "material"]]}
+{"id": 444, "text": "太原铁路运输中级法院关于位于大同市平城区大西街公园1号小区B281车位（第二次拍卖）的公告(二次)。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [33, 35, "material"]]}
+{"id": 445, "text": "盐城市城南污水处理厂尾水管道改扩建工程的最高限价公示。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [12, 19, "engineer"]]}
+{"id": 446, "text": "营山县人民法院关于营山县绿水镇阳光家园1栋4单元7层2号住宅（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [28, 30, "material"]]}
+{"id": 447, "text": "2020年贵州省非免疫规划疫苗集中采购公告（三）。", "meta": {}, "annotation_approver": null, "labels": [[13, 15, "material"]]}
+{"id": 448, "text": "贵安新区分公司2017年仓储服务项目竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [12, 16, "service"]]}
+{"id": 449, "text": "淅川县建档立卡贫困户《精准扶贫明白栏》采购项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "service"]]}
+{"id": 450, "text": "福厦路岭尾路口至后坑底坝头村道改造建设1期工程（招标公告）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 19, "engineer"]]}
+{"id": 451, "text": "四川省泸州市叙永县住房和城乡建设局购买燃气安全服务公开招标采购公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 25, "service"], [0, 17, "purchaser"]]}
+{"id": 452, "text": "国网四川成都简阳供电公司220kV棉丰变电站智能巡检机器人升级服务（第二次）采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [24, 33, "service"]]}
+{"id": 453, "text": "2018年中国联通新疆阿克苏分公司接入网线路及设备施工零星维护采购项目。", "meta": {}, "annotation_approver": null, "labels": [[5, 17, "purchaser"], [17, 22, "service"], [23, 31, "engineer"]]}
+{"id": 454, "text": "牙克石市殡葬管理所专用车辆专用车辆竞争性谈判招标方式。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [15, 17, "material"]]}
+{"id": 455, "text": "日照经济技术开发区社会事业局(献唐学校)多媒体触控一体机采购项目需求公示。", "meta": {}, "annotation_approver": null, "labels": [[20, 28, "material"], [0, 14, "purchaser"]]}
+{"id": 456, "text": "东莞市婚姻登记管理中心办事大厅音视频建设项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [15, 20, "material"]]}
+{"id": 457, "text": "徐州市鼓楼区人民法院关于徐州市鼓楼区孤山村二组的房地产一处（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [24, 27, "material"]]}
+{"id": 458, "text": "北京市房山区第一医院,多索茶碱(无,注射液,10ml:0.1g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [11, 15, "material"]]}
+{"id": 459, "text": "关于宜阳县香鹿山镇亿源翠堤湾西侧韩沟河绿地工程、段村村街道立面提升改造工程、段村村街道透水砖铺设混凝土路面改造及其他零星工程的竞争性谈判公告招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 23, "engineer"], [29, 37, "engineer"], [41, 55, "engineer"], [56, 62, "engineer"]]}
+{"id": 460, "text": "三河路（金寨南路潭冲路）等交通工程。", "meta": {}, "annotation_approver": null, "labels": [[13, 17, "engineer"]]}
+{"id": 461, "text": "萧县思源中学南201938号块地开挖石方拍卖招标异常公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [18, 20, "material"]]}
+{"id": 462, "text": "深圳市体育中心改造提升工程项目施工图审查。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [7, 20, "engineer"]]}
+{"id": 463, "text": "防城金花茶小镇金花茶加工园（一期）。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 464, "text": "北京赛盛泰康企业管理服务有限公司门诊部,叶酸片(无,素片,5mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 23, "material"]]}
+{"id": 465, "text": "中华人民共和国安徽出入境检验检疫局亳州检验检疫办事处网络建设项目采购项目竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 26, "purchaser"], [26, 30, "service"]]}
+{"id": 466, "text": "长沙理工大学竞价公告(CB105362018000129)计算工作站。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [29, 34, "material"]]}
+{"id": 467, "text": "南阳市污水净化中心除磷剂及乙醇采购项目（二次）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 12, "material"], [13, 15, "material"]]}
+{"id": 468, "text": "额尔古纳市检测用房及附属建设项目施工。", "meta": {}, "annotation_approver": null, "labels": [[5, 18, "engineer"]]}
+{"id": 469, "text": "国电置业有限公司江苏分公司6月泰州零星维修服务的采购(2次挂网)。", "meta": {}, "annotation_approver": "hechangjia", "labels": [[0, 13, "purchaser"], [17, 23, "service"]]}
+{"id": 470, "text": "苏州市相城区春申中学关于宿舍家具的招标公告(SZZCZ2017XCG004)。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [12, 16, "material"]]}
+{"id": 471, "text": "青岛新机场高速公路（一期工程先期实施段）绿化工程1标段招标文件。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [20, 24, "engineer"]]}
+{"id": 472, "text": "北京市西城区牛街社区卫生服务中心,碳酸钙(无,素片,0.3g(以钙计))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [17, 20, "material"]]}
+{"id": 473, "text": "中铁一局二公司年产70万件。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"]]}
+{"id": 474, "text": "中天合创门克庆煤矿3105工作面液压自移列车采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "material"]]}
+{"id": 475, "text": "重庆市武隆区规划和自然资源局关于平桥镇南坪等(2)个村土地整理项目竣工测绘单位随机抽取公告。", "meta": {}, "annotation_approver": null, "labels": [[27, 33, "engineer"], [0, 14, "purchaser"]]}
+{"id": 476, "text": "松原农业高新技术开发区污水管线建设项目。", "meta": {}, "annotation_approver": null, "labels": [[11, 17, "engineer"]]}
+{"id": 477, "text": "香格里拉市建塘镇社区卫生服务中心北郊社区卫生服务站标准化建设采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [20, 30, "engineer"]]}
+{"id": 478, "text": "绵阳三江汇泽城市污水净化有限公司（垃圾填埋场）采购导气管套件询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [25, 30, "material"]]}
+{"id": 479, "text": "关于北方重工集团有限公司印尼南苏项目氧量测量装置采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 12, "purchaser"], [18, 24, "material"]]}
+{"id": 480, "text": "湘阴县消防救援大队政府专职消防员服装购买邀请公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [13, 18, "material"]]}
+{"id": 481, "text": "2021年03月04日华能苏州热电有限责任公司华能苏州热电厂煤机（刘石磊）3.1电动执行器询价书询价公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 23, "purchaser"], [27, 32, "material"], [40, 45, "material"]]}
+{"id": 482, "text": "新建水利服务站办公用房修缮设计项目。", "meta": {}, "annotation_approver": null, "labels": [[7, 15, "engineer"]]}
+{"id": 483, "text": "中铁八局建筑公司峨米项目围挡线上询价书（框架内）。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"]]}
+{"id": 484, "text": "测试仅公告公开招标预警0312公开招标采购公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 485, "text": "互感器箱体招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "material"]]}
+{"id": 486, "text": "减速机采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "material"]]}
+{"id": 487, "text": "任泽区牛尾河南、北岸沿河道路排水工程监理项目公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 20, "engineer"]]}
+{"id": 488, "text": "河北文丰钢铁有限公司供应部轧辊。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [13, 15, "material"]]}
+{"id": 489, "text": "询价公告：HYX321.4组计划（BZJ2113）管路件。", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "material"]]}
+{"id": 490, "text": "SBR询价。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "material"]]}
+{"id": 491, "text": "sz2021030200027采购台式计算机项目需求公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "material"]]}
+{"id": 492, "text": "询价公告：冶金有限达州钢铁1780m3高炉冷却壁大修中冷缺壁及附件拆、安工程高炉钢结构工程。", "meta": {}, "annotation_approver": null, "labels": [[19, 26, "engineer"]]}
+{"id": 493, "text": "南新西道（唐丰南路铁西路）新建道路工程监理招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 21, "engineer"]]}
+{"id": 494, "text": "NK20210602007。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 495, "text": "浙江省2022年第19届亚运会组委会现金等价物核价服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 27, "service"]]}
+{"id": 496, "text": "李子树苗。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"]]}
+{"id": 497, "text": "重庆市荣昌区运通公路工程有限公司持有的碎石（规格型号：1料510、小2料1015、2料1020、3料2040、混合料040）一批。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [19, 21, "material"]]}
+{"id": 498, "text": "【监利县中心】2020年监利市红城乡高标准农田建设项目2020年监利市红城乡高标准农田建设项目2标段(JZJL202010SL015001002)招标公告[报名中]。", "meta": {}, "annotation_approver": null, "labels": [[18, 27, "engineer"], [38, 47, "engineer"]]}
+{"id": 499, "text": "中山市公安局交通警察支队2021年6月12月工程造价咨询服务打包选取项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [22, 30, "service"]]}
+{"id": 500, "text": "绵竹市人民政府办公室采购立柜式空调按需求竞价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [15, 17, "material"]]}
+{"id": 501, "text": "CDX707项目冷冲压模检具第三包招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "material"]]}
+{"id": 502, "text": "北京市朝阳区望京街道季景社区卫生服务站,西格列汀(捷诺维,薄膜衣片,0.1g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 24, "material"]]}
+{"id": 503, "text": "旬阳市森林植被恢复项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[3, 11, "engineer"]]}
+{"id": 504, "text": "旭辉银盛泰辉盛岚海小区（安装）钢材采购计划。", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "material"], [0, 11, "purchaser"]]}
+{"id": 505, "text": "千斤顶安必安[WZ2021041304]采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "material"]]}
+{"id": 506, "text": "甘肃银光化学工业集团有限公司光化反应塔。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [14, 19, "material"]]}
+{"id": 507, "text": "建安置房（陶浜花园三期、陶浜小区二期2）工程业绩公示。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 508, "text": "苏州市住房和城乡建设局关于苏州市建筑工程绿色智慧示范片区监管平台磋商采购公告(SZJC2021C097)。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [28, 32, "service"]]}
+{"id": 509, "text": "大理白族自治州人民医院关于打印/复印纸1500件，打印/复印纸350箱等的询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [13, 19, "material"], [25, 31, "material"]]}
+{"id": 510, "text": "20210303杭州宝井钢材加工配送有限公司。", "meta": {}, "annotation_approver": null, "labels": [[8, 22, "purchaser"]]}
+{"id": 511, "text": "大兴区林校路社区卫生服务中心兴政东里社区卫生服务站,布地奈德福莫特罗(信必可都保,吸入粉雾剂,(160μg/4.5μg)/吸215;60)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 25, "purchaser"], [26, 34, "material"]]}
+{"id": 512, "text": "直线物料装置。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "material"]]}
+{"id": 513, "text": "云霄县人民政府办公室2021年县政府机房和视频会议运行及保障服务项目服务类采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [18, 36, "service"]]}
+{"id": 514, "text": "2021年广州供电局路灯管理所常用备品备件框架采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "purchaser"], [17, 23, "material"]]}
+{"id": 515, "text": "浙大宁波理工学院2021年6月政府采购意向。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"]]}
+{"id": 516, "text": "甘肃银光化学工业集团有限公司光化反应塔。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [14, 19, "material"]]}
+{"id": 517, "text": "零星技改光纤熔接机(招标号：LXHT001234)。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "material"]]}
+{"id": 518, "text": "[信州区]江西赣浦工程项目管理有限公司关于上饶市信州区茅家岭街道办事处原上饶市电镀厂地块场地调查（项目编号：GP2021008）竞争性磋商采购公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 19, "purchaser"], [44, 48, "service"]]}
+{"id": 519, "text": "吉林省长春兴业监狱狱政设施建设发电机组采购及安装工程。", "meta": {}, "annotation_approver": null, "labels": [[15, 19, "material"], [0, 9, "purchaser"]]}
+{"id": 520, "text": "深圳市福田区新闻路中电信息大厦东座1707号。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 521, "text": "北七家社区卫生服务中心名佳花园社区卫生服务站,甘精胰岛素(来得时,注射液,3ml:300单位)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "purchaser"], [23, 28, "material"]]}
+{"id": 522, "text": "贵州公司福泉公司轴、轴套等询价采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 9, "material"], [10, 12, "material"]]}
+{"id": 523, "text": "顺义区图像信息及小区监控系统运行维护项目网络设备租用（二标段）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 18, "service"], [20, 24, "material"]]}
+{"id": 524, "text": "中国人寿保险股份有限公司姜堰支公司食堂管理服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [17, 23, "service"]]}
+{"id": 525, "text": "南平市教师进修学院南平市引进优秀省内外专家引领我市高中教研视导服务服务类采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[27, 33, "service"]]}
+{"id": 526, "text": "[政府采购协议供货]电器设备采购。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "material"]]}
+{"id": 527, "text": "贵和路（上津路江南大道）段施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 15, "engineer"]]}
+{"id": 528, "text": "[万安县]江西华纳百川工程管理有限公司关于万安县应急管理局救灾物资采购的招标公告（第二次）。", "meta": {}, "annotation_approver": null, "labels": [[5, 19, "purchaser"], [29, 33, "material"], [21, 29, "purchaser"]]}
+{"id": 529, "text": "[线下][需求信息]昆明昆铁生活服务有限公司昆铁服装厂床上用品需求计划公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 22, "purchaser"], [27, 31, "material"], [22, 27, "purchaser"]]}
+{"id": 530, "text": "千岛湖身训房服务（水上中心）。", "meta": {}, "annotation_approver": null, "labels": [[3, 8, "service"]]}
+{"id": 531, "text": "北京市东城区环境卫生服务中心2021年15座密闭式清洁站提升改造项目设备购置与安装公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [25, 32, "engineer"]]}
+{"id": 532, "text": "小哨国际新城污水处理厂配套再生水厂项目林业勘察招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [19, 23, "service"]]}
+{"id": 533, "text": "询价公告：锚杆机配件。", "meta": {}, "annotation_approver": null, "labels": [[5, 10, "material"]]}
+{"id": 534, "text": "甘州区新墩镇人民政府环保炉具采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 14, "material"]]}
+{"id": 535, "text": "福建经发竞争性磋商2021JF090厦门市医疗保险基金专项审计采购公告。", "meta": {}, "annotation_approver": null, "labels": [[21, 31, "service"]]}
+{"id": 536, "text": "关于为【2020年度部门决算报表及财务年报工作采购会计事务所服务】公开选取【会计师事务所服务】机构的公告。", "meta": {}, "annotation_approver": null, "labels": [[38, 46, "service"]]}
+{"id": 537, "text": "[公开]北京市冰上项目训练基地冰上专业辅助器材及冰壶专用设备项目（冰上专业辅助器材）公。", "meta": {}, "annotation_approver": null, "labels": [[24, 30, "material"], [15, 22, "material"]]}
+{"id": 538, "text": "甘肃省2021年度河西走廊生态保护与修复项目凉州区三北六期工程退化林分修复E6206000606005215001013Z01招标文件。", "meta": {}, "annotation_approver": null, "labels": [[13, 22, "engineer"]]}
+{"id": 539, "text": "电器仪表2021.2.18公开采购八钢公司资材备件采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"], [21, 25, "material"], [17, 21, "purchaser"]]}
+{"id": 540, "text": "水城区电商公共服务中心升级改造及运营管理项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 22, "service"]]}
+{"id": 541, "text": "珠海市消防救援支队特勤大队珠消01号消防船维修保养项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [18, 27, "service"]]}
+{"id": 542, "text": "基层卫生单位污水处理改造工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 14, "engineer"]]}
+{"id": 543, "text": "新疆小区家乐福门店零星维修及材料项目招标项目公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "service"]]}
+{"id": 544, "text": "【（华南）宁德电厂橡胶复合布公开询价采购20201231032】采购公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "material"], [5, 9, "purchaser"]]}
+{"id": 545, "text": "北京国佳中医医院,六味地黄丸(无,浓缩丸,每8丸重1.44克(?每8丸相当于原药材3g))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [9, 14, "material"]]}
+{"id": 546, "text": "沈北实验、中金幼儿园电子设备采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 14, "material"]]}
+{"id": 547, "text": "南京市智慧电梯大数据综合应用平台公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 16, "service"]]}
+{"id": 548, "text": "武汉威仕科钢材加工配送有限公司1250纵切刀轴液压螺母。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [23, 27, "material"]]}
+{"id": 549, "text": "普宁市占陇镇中心卫生院网络安全系统设备项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 19, "service"]]}
+{"id": 550, "text": "关于诸暨市综合行政执法局文明城市长效管理人行道停车位漆划及零星标线工程采购项目的公开招标公告[浙江华元工程咨询有限公司]。", "meta": {}, "annotation_approver": null, "labels": [[2, 12, "purchaser"], [20, 35, "engineer"], [47, 59, "purchaser"]]}
+{"id": 551, "text": "化州市长岐镇中心学校、平定镇中心学校、杨梅镇中心学校、同庆中学学生饮用奶供应服务采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[33, 40, "service"]]}
+{"id": 552, "text": "山东高速齐鲁建设集团有限公司临沂项目电线采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [18, 20, "material"]]}
+{"id": 553, "text": "成熟度智能评估模型及平台设计。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "service"]]}
+{"id": 554, "text": "包头市安力物业有限公司卷钢包装用KZ32/19气动打包机采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 555, "text": "武汉经济技术开发区（汉南区）商务局户外通道宣传推介服务项目招标。", "meta": {}, "annotation_approver": null, "labels": [[21, 27, "service"]]}
+{"id": 556, "text": "寿宁县实验小学校园维修改造工程。", "meta": {}, "annotation_approver": null, "labels": [[9, 15, "engineer"], [0, 7, "purchaser"]]}
+{"id": 557, "text": "辊子装配武安市裕华钢铁有限公司物资供应部。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"]]}
+{"id": 558, "text": "广西皖维有机厂低温阀采购公告（广西皖维生物质科技有限公司）。", "meta": {}, "annotation_approver": null, "labels": [[7, 10, "material"], [15, 28, "purchaser"]]}
+{"id": 559, "text": "西电物资采购:www062021011900523。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 560, "text": "四川省自贡市小井沟水利工程支渠土建及设备采购安装工程招标。", "meta": {}, "annotation_approver": null, "labels": [[9, 20, "material"]]}
+{"id": 561, "text": "东区市政道路三期项目（塔新北路延长线）采购第三方检测服务。", "meta": {}, "annotation_approver": null, "labels": [[21, 28, "service"]]}
+{"id": 562, "text": "杭州华旗招标代理有限公司关于温州市机关内部最多跑一次数字化改革创新系统平台二期项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [26, 37, "service"]]}
+{"id": 563, "text": "武山县咀头乡多家新村改造提升工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 16, "engineer"]]}
+{"id": 564, "text": "厦门务实竞争性谈判2021SH408厦门市竞技体育发展中心游泳馆1号空气源热泵竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[34, 39, "material"], [18, 29, "purchaser"]]}
+{"id": 565, "text": "（2000元/吨，甲醇令旗价3.23上午场）公布东北亚中国长江口甲醇中下游主体采购意向价格通告。", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "material"]]}
+{"id": 566, "text": "灵武市人民医院救治能力提升项目医疗设备配置采购项目项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [15, 21, "material"]]}
+{"id": 567, "text": "（华南）大唐宁德电厂20212024年广域网专线租用服务询价采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 24, "material"], [4, 10, "purchaser"]]}
+{"id": 568, "text": "[奉新县][线下]奉新县政府采购中心关于奉新县纪委名生资金码上监督软件平台招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "purchaser"], [33, 35, "material"]]}
+{"id": 569, "text": "【大唐雅安电力开发有限公司大唐雅安公司税务咨询】采购公告。", "meta": {}, "annotation_approver": null, "labels": [[1, 13, "purchaser"], [19, 23, "service"], [13, 19, "purchaser"]]}
+{"id": 601, "text": "广东省关于广州公共资源交易政府采购领域信用评价体系2.0试运行的通知。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "purchaser"], [19, 25, "service"]]}
+{"id": 602, "text": "202104020002连接器6.2615。", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "material"]]}
+{"id": 603, "text": "佛山市公安局佛山市公安局交警支队2021年度购买交通管理辅助服务项目公开招标采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [24, 32, "service"]]}
+{"id": 604, "text": "屏山县屏山镇人民政府关于公布屏山县乡（镇）权责清单（2021版）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [21, 25, "material"]]}
+{"id": 605, "text": "吉林化纤股份有限公司高改性复合强韧丝差别化提质项目链板式干燥机招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [28, 31, "material"]]}
+{"id": 606, "text": "北京市朝阳区和平街街道胜古庄社区卫生服务站,摩罗丹(无,浓缩丸,1.84g/16丸(相当于生药材4.5g))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "purchaser"], [22, 25, "material"]]}
+{"id": 607, "text": "2021年3月备件寻源(哈尔滨东安汽车发动机制造有限公司)。", "meta": {}, "annotation_approver": null, "labels": [[12, 28, "purchaser"], [7, 9, "purchaser"]]}
+{"id": 608, "text": "2021年04月19日华能桂林燃气分布式能源有限责任公司华能桂林能源公司热网南线改造工程施工图审查询价书询价公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 28, "purchaser"], [28, 36, "purchaser"], [36, 44, "engineer"]]}
+{"id": 609, "text": "大英县2021年省级财政农业公共安全资金项目病虫害绿色防控植保社会化服务竞争性磋商采购公告。", "meta": {}, "annotation_approver": null, "labels": [[22, 36, "service"]]}
+{"id": 610, "text": "VW20210304014。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 611, "text": "科研生产所需连接器、二极管、电感。", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "material"], [10, 13, "material"], [14, 16, "material"]]}
+{"id": 612, "text": "广东省广裕集团英德工贸实业有限公司购置车间劳动改造工作台采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [21, 28, "material"]]}
+{"id": 613, "text": "【高新区】合肥高新技术产业开发区财政局202106010844网上竞价采购项目。", "meta": {}, "annotation_approver": null, "labels": [[5, 19, "purchaser"]]}
+{"id": 614, "text": "关于（社保资金大额存单）2021年第1期省级财政专户资金定期存款竞争性存放的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[26, 32, "service"]]}
+{"id": 615, "text": "铜梁区侣俸镇永乐村十九组CV81公路工程。", "meta": {}, "annotation_approver": null, "labels": [[16, 20, "engineer"]]}
+{"id": 616, "text": "岷县职业中等专业学校音乐实训室设施设备项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 19, "material"]]}
+{"id": 617, "text": "锡林郭勒盟财政局PPP模式项目第一批专业咨询服务入围机构公开招标招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 24, "service"], [0, 8, "purchaser"]]}
+{"id": 618, "text": "苏州市吴江区第一人民医院关于临床监测平台项目的招标公告SZCJ2017WJT005(SZCJ2017WJT005)。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 20, "service"]]}
+{"id": 619, "text": "城子河区农村室外卫生户厕工程竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "engineer"]]}
+{"id": 620, "text": "平远县2016年山区中小河流治理工程100%独立第三方检测服务采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "engineer"], [24, 31, "service"]]}
+{"id": 621, "text": "郑州铁路科技发展有限公司关于对3D结构光线扫描模块进行公开招标的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [15, 25, "material"]]}
+{"id": 622, "text": "永新县人民法院关于吉安市永新县禾川镇金鹏大厦C33商品房一套（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [25, 28, "material"]]}
+{"id": 623, "text": "南平市烟草公司邵武分公司20202023年度零星运输服务采购项目（二次招标）。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [22, 28, "service"]]}
+{"id": 624, "text": "南阳市卧龙区人民法院关于拍卖拍品编号2020执恢133119的执行担保人所有的珠宝玉石鉴定证书标识为和田玉（羊脂玉）年年有余把件玉石（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [64, 66, "material"], [50, 53, "material"]]}
+{"id": 625, "text": "2020年9月第1批皮夹克、变色镜月度备件询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 13, "material"], [14, 17, "material"], [19, 21, "material"]]}
+{"id": 626, "text": "射阳县兴桥卫生院CT、DR机房改造工程招标公告（简易招标）。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [13, 19, "engineer"]]}
+{"id": 627, "text": "[广西电网公司]梧州供电局带电作业工具库房改造项目购置带电作业工器具库房智能环。", "meta": {}, "annotation_approver": null, "labels": [[8, 13, "purchaser"], [17, 23, "engineer"], [36, 39, "material"], [1, 7, "purchaser"]]}
+{"id": 628, "text": "第三师51团2019年国家生态功能区项目(货物采购)招标公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 629, "text": "北大荒农产品配送中心钢结构除锈工程。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 17, "engineer"]]}
+{"id": 630, "text": "平谷区平谷镇2019年老旧小区综合整治项目（第3标段）施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 21, "engineer"]]}
+{"id": 631, "text": "赣深2标一分部木材一批（五）询价单。", "meta": {}, "annotation_approver": null, "labels": [[7, 9, "material"]]}
+{"id": 632, "text": "关于延长投标时间的补遗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 634, "text": "天津市公交集团第二客运有限公司14部宇通校车。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [20, 22, "material"]]}
+{"id": 654, "text": "[中介]大同煤矿集团北辛窑煤业有限公司井下超前物探项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 19, "purchaser"], [19, 25, "service"]]}
+{"id": 656, "text": "大口径电磁水表采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "material"]]}
+{"id": 657, "text": "鹤岗市工农区人民法院关于鹤岗市向阳区15委5组红军街金鹤小区二组团5109/208/209室（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"]]}
+{"id": 660, "text": "丰县顺河镇建材产业园标准厂房建设项目1、2、3厂房的最高限价公示。", "meta": {}, "annotation_approver": null, "labels": [[10, 16, "engineer"]]}
+{"id": 662, "text": "厨房用具（三站）。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"]]}
+{"id": 663, "text": "贵州省大方县政府政务服务中心对国土局6000亩土地前期整理工作谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [23, 29, "engineer"]]}
+{"id": 665, "text": "相关生产服务招选贵州水城瑞安水泥有限公司。", "meta": {}, "annotation_approver": null, "labels": [[8, 20, "purchaser"], [0, 6, "service"]]}
+{"id": 666, "text": "松山法庭诉讼服务中心二区工程项目。", "meta": {}, "annotation_approver": null, "labels": [[6, 16, "engineer"]]}
+{"id": 668, "text": "莆田市荔城区中医院智能化系统建设项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 16, "service"]]}
+{"id": 669, "text": "宣城市中级人民法院关于A25康升角几（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [16, 18, "material"]]}
+{"id": 671, "text": "松鹤A小区H组团配套工程第二标段。", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "engineer"]]}
+{"id": 672, "text": "中铁十局二公司新台项目部潜水泵、电缆线、水管等询价。", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "material"], [16, 19, "material"], [20, 22, "material"], [0, 7, "purchaser"]]}
+{"id": 674, "text": "新建灌云县临港产业区危化品道路运输综合服务中心（公共交通车辆停车场）项目的最高限价公示。", "meta": {}, "annotation_approver": null, "labels": [[28, 33, "material"], [2, 23, "purchaser"]]}
+{"id": 676, "text": "SAR遥感数据采购项目二次公开竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "service"]]}
+{"id": 678, "text": "中国石油化工股份有限公司洛阳分公司中石化洛阳分公司2016年三氯化铁框架协议招标三氯化铁招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [30, 34, "material"], [17, 25, "purchaser"], [40, 44, "material"]]}
+{"id": 679, "text": "酒泉市文化广播影视新闻出版局（酒泉市图书馆）图书采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [22, 24, "material"]]}
+{"id": 680, "text": "建安政采公字〔2018〕62号许昌市建安区环境监测站购买红外测油仪、原子吸收分光光度计、红外烟气综合分析仪项目公开招标公告（二次）。", "meta": {}, "annotation_approver": null, "labels": [[15, 26, "purchaser"], [28, 33, "material"], [34, 43, "material"], [44, 53, "material"]]}
+{"id": 708, "text": "台州海关大麦屿出入境人员智能管控系统项目。", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "service"]]}
+{"id": 709, "text": "江门市新会区妇幼保健院医疗设备采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 15, "material"]]}
+{"id": 710, "text": "国网新疆电力有限公司2019年第一次其他服务招标采购否决投标原因公示。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"]]}
+{"id": 711, "text": "永安市林业局永安市杉木第三代无性系种子园抚育管理服务类采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[20, 27, "service"], [0, 6, "purchaser"]]}
+{"id": 712, "text": "养老等民政基本公共服务性事项第三方核查采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "service"]]}
+{"id": 713, "text": "开封市祥符区推拉绿板及多媒体一体机采购项目（二次）采购公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "material"], [11, 17, "material"]]}
+{"id": 714, "text": "通州区十总镇2018年财政一事一议农路项目一标段（张沙村、骑岸居）等资格后审公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 21, "engineer"]]}
+{"id": 715, "text": "南明区妇幼保健院消毒追溯系统采购竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 14, "service"]]}
+{"id": 716, "text": "谷城县城关镇石龙沟村新修乡村道路工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "engineer"]]}
+{"id": 717, "text": "阜南县政府采购中心挂臂垃圾车用垃圾桶货物询价采购函FNZCH2009034。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [11, 14, "material"], [15, 20, "material"]]}
+{"id": 718, "text": "广东省建设工程标准定额站复印纸采购计划。", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "material"]]}
+{"id": 719, "text": "广东环境保护工程职业学院广东环境保护工程职业学院监测系复印纸采购采购计划。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [27, 30, "material"], [12, 24, "purchaser"]]}
+{"id": 720, "text": "北京市朝阳区双桥医院,西帕依固龈液(无,合剂（含口服液）,30ml)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [11, 17, "material"]]}
+{"id": 721, "text": "新和县教育现代化推进工程中小学办学条件综合提质项目（新和县尤鲁都斯巴格镇中学学生宿舍楼（寄宿制）建设项目）施工标段。", "meta": {}, "annotation_approver": null, "labels": [[15, 25, "engineer"], [26, 38, "purchaser"], [40, 52, "engineer"]]}
+{"id": 722, "text": "中以产业技术创新中心（一期）精装修工程设计。", "meta": {}, "annotation_approver": null, "labels": [[14, 21, "engineer"]]}
+{"id": 723, "text": "铜鼓县政府采购中心关于铜鼓县永宁镇人民政府办公家具项目（招标编号：铜鼓采购中心201903001）恢复询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [21, 25, "material"], [11, 21, "purchaser"]]}
+{"id": 724, "text": "广东省惠州市中级人民法院信息安全等级保护测评项目比选公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 22, "service"]]}
+{"id": 725, "text": "福田区政务服务数据管理局2019年服装采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [17, 19, "material"]]}
+{"id": 726, "text": "神华宁煤集团物资公司无源自动液控联动纠偏器采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [18, 21, "material"]]}
+{"id": 727, "text": "西昌车务段2018年防暑降温药品采购询价函。", "meta": {}, "annotation_approver": null, "labels": [[10, 16, "material"]]}
+{"id": 728, "text": "福建省宁德人民医院医疗设备采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 13, "material"]]}
+{"id": 729, "text": "江西诚浔商务咨询有限公司关于九江市天杰物业服务有限公司保安保洁服务采购项目（采购编号：JXCX2020G002）公开招标采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [27, 33, "service"], [14, 27, "purchaser"]]}
+{"id": 730, "text": "太华镇魁城村旅游基础设施建设项目修改通知（1）。", "meta": {}, "annotation_approver": null, "labels": [[6, 14, "engineer"]]}
+{"id": 731, "text": "吐哈油田制氮车过滤系统配件2019000497。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "material"]]}
+{"id": 732, "text": "潍坊市奎文区财政局潍坊市奎文区房地产项目动态管理系统及服务采购项目需求公示。", "meta": {}, "annotation_approver": null, "labels": [[15, 29, "service"], [0, 9, "purchaser"]]}
+{"id": 733, "text": "北京市房山区城关街道饶乐府社区卫生服务站,养血清脑颗粒(无,颗粒剂,4g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 27, "material"]]}
+{"id": 735, "text": "东方国际服装中心名下位于青岛市市南区宁夏路118号5号楼2单元502户居住用途房地产。", "meta": {}, "annotation_approver": null, "labels": [[39, 42, "material"]]}
+{"id": 736, "text": "蚌埠市蚌山区公安消防大队采购录音笔采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 17, "material"]]}
+{"id": 737, "text": "安徽职业技术学院征收安置小区人防防护、防化等专用设备采购与安装。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [14, 26, "material"]]}
+{"id": 738, "text": "[营销总公司]山东钢铁集团日照有限公司外销冷热轧现货招标20210104。", "meta": {}, "annotation_approver": null, "labels": [[19, 24, "material"], [7, 19, "purchaser"]]}
+{"id": 739, "text": "深圳市经济贸易和信息化委员会2018中国国际石墨烯创新大会深圳展区的组展招展服务项目竞争性谈判邀请。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [34, 40, "service"]]}
+{"id": 741, "text": "宁波市中心血站生物安全柜和实验室改造询价采购公告（宁波国际公司、宁波光大公司)。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [13, 18, "engineer"], [7, 12, "material"]]}
+{"id": 742, "text": "闽新招通知[2007001]第01号关于福建省浦城县医院设备公开招标采购投标文件递交、开标及评标时间变更的通知。", "meta": {}, "annotation_approver": null, "labels": [[20, 28, "purchaser"]]}
+{"id": 743, "text": "汕尾电厂A、B滚轴筛筛轴总成采购。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "material"], [0, 4, "purchaser"]]}
+{"id": 745, "text": "南京市立贤小学扩建工程电梯采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [11, 13, "material"]]}
+{"id": 747, "text": "富川瑶族自治县人民法院关于广西崇左市大新县桃城镇民生街7号（东盟商业广场）A102号商铺（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [42, 44, "material"]]}
+{"id": 749, "text": "黄平县教育和科技局课桌凳、网络设备、数字教育资源接受和播放设备、计算机采购项目采购需求公示。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 12, "material"], [13, 17, "material"], [18, 26, "material"], [27, 31, "material"], [32, 35, "material"]]}
+{"id": 750, "text": "广西锦辉项目管理有限公司车辆采购(项目编号：CZZC2018J140036JHGL)竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 14, "material"]]}
+{"id": 751, "text": "北京市平谷区马坊镇社区卫生服务中心,氨酚伪麻美芬(Ⅱ)/氨麻苯美(白加黑,薄膜衣片,复方)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [18, 24, "material"]]}
+{"id": 752, "text": "中铁二局城通公司维保分公司（PJ210）（济南R29）。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"]]}
+{"id": 753, "text": "满洲里市住房和城乡建设局市区生活垃圾无害化处理厂环保验收监测及环保例行检测竞争性谈判预审公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [24, 30, "service"], [32, 37, "service"]]}
+{"id": 754, "text": "秦岭公司锅炉专业吹灰器备件紧急采购012401询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [8, 13, "material"]]}
+{"id": 756, "text": "大唐安徽可调式螺纹槽道减压阀采购询价公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 14, "material"]]}
+{"id": 757, "text": "智慧公用工程基础ERP系统项目软件及设备采购。", "meta": {}, "annotation_approver": null, "labels": [[8, 17, "material"]]}
+{"id": 758, "text": "太钢不锈钢冷轧现货竞价标书（2019051301）非常规。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"], [2, 5, "material"], [5, 7, "material"]]}
+{"id": 759, "text": "2018年省级蔬菜发展项目采购采购公告采购/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 9, "material"]]}
+{"id": 760, "text": "贺州市政府采购招投标中心关于贺州市妇幼保健院脑电仿生电刺激仪重新询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[22, 30, "material"], [0, 12, "purchaser"], [14, 22, "purchaser"]]}
+{"id": 761, "text": "青海省交通建设项目竣工决算审计服务工作（2019年）第二次招标信息公开。", "meta": {}, "annotation_approver": null, "labels": [[11, 17, "service"]]}
+{"id": 763, "text": "特变电工集约化招标消防类第一批消防施工项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 21, "engineer"]]}
+{"id": 764, "text": "抚远市渔政渔港监督管理站GPS/北斗双模终端设备采购项目。", "meta": {}, "annotation_approver": null, "labels": [[12, 24, "material"]]}
+{"id": 808, "text": "2018年长垣县农业植保社会化服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 17, "service"]]}
+{"id": 810, "text": "翰腾二公司申请采购加工件询比价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [9, 12, "material"]]}
+{"id": 811, "text": "S311麻山段公路改建工程。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "engineer"]]}
+{"id": 813, "text": "福建省龙岩市第一医院车辆维修和保养服务服务类采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 19, "service"]]}
+{"id": 815, "text": "融创宸院项目DK2一标段精装修工程石材招标。", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "material"], [12, 17, "engineer"]]}
+{"id": 816, "text": "中铁十七局集团第五工程有限公司景中项目锅炉、龙门吊公开招标。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [19, 21, "material"], [22, 25, "material"]]}
+{"id": 817, "text": "广铁集团衡阳供电段关于采购祁阳综合工区一体化建设电力线路改造用电缆等材料一批的项目公告。", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "material"], [24, 30, "engineer"], [0, 4, "purchaser"]]}
+{"id": 819, "text": "浙江绍兴新昌县交通运输局20192020年度农村公路重要节点建设（改造）项目小额工程设计服务。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [38, 46, "engineer"]]}
+{"id": 820, "text": "仙游县第一医院（一期）PPP项目工程施工监理综合评估法招标公告(网上投标)（监理）。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [11, 22, "engineer"]]}
+{"id": 822, "text": "南通经济技术开发区人民法院关于117号翡翠手镯（NO.U200601314）（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [19, 23, "material"]]}
+{"id": 823, "text": "沛县魏庙镇河涯村硬化水泥地工程。", "meta": {}, "annotation_approver": null, "labels": [[8, 15, "engineer"]]}
+{"id": 824, "text": "广州广交供应链管理有限公司冠怡大厦49层物业招租公告（第二次）。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [20, 22, "service"]]}
+{"id": 826, "text": "辽源市招生考试服务中心辽源市国家教育考试标准化考试系统设备升级改造采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [23, 33, "service"]]}
+{"id": 827, "text": "某部队某部公务用车定点维修服务采购项目。", "meta": {}, "annotation_approver": null, "labels": [[8, 15, "service"]]}
+{"id": 828, "text": "双井项目区坡耕地水土流失综合治理工程(第二批)增补资金施工单位竞争性磋商邀请公告合同公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 18, "engineer"]]}
+{"id": 830, "text": "中共松原市宁江区毛都站镇刘家围子村采购四轮车、打捆机、秸秆还田翻转犁、旋耕机项目。", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "material"], [23, 26, "material"], [27, 34, "material"], [35, 38, "material"]]}
+{"id": 831, "text": "2020年度娄庄镇高标准农田建设项目招标节余资金增做工程的最高限价公示。", "meta": {}, "annotation_approver": null, "labels": [[9, 18, "engineer"]]}
+{"id": 832, "text": "北京市朝阳区豆各庄地区朝丰家园社区卫生服务站,孟鲁司特(无,颗粒剂,0.5g:4mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "purchaser"], [23, 27, "material"]]}
+{"id": 833, "text": "城市广场品质提升工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "engineer"]]}
+{"id": 834, "text": "深圳市坪山区妇幼保健院新大楼自饮水系统项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [14, 19, "material"]]}
+{"id": 835, "text": "奈曼旗水务局奈曼旗水务局市内管道、电缆及其有关工程铺设（市内供水管道铺设）公开招标招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 16, "material"], [17, 19, "material"], [30, 36, "engineer"]]}
+{"id": 836, "text": "【冀中能源股份有限公司设备采购（2019年第二十一批）二次】招标公告。", "meta": {}, "annotation_approver": null, "labels": [[1, 11, "purchaser"]]}
+{"id": 837, "text": "哈尔滨市政府采购中心专用设备招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 14, "material"]]}
+{"id": 838, "text": "龙口南山LNG接收站一期工程码头工程测量勘察和初步设计招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 27, "engineer"]]}
+{"id": 839, "text": "【福田街道】福田街道宗宅村旧村改造高层建设工程基坑支护及土石方工程监理限额以下。", "meta": {}, "annotation_approver": null, "labels": [[13, 23, "engineer"], [28, 35, "engineer"]]}
+{"id": 840, "text": "广东烟草湛江市有限公司20192022年正版软件定点供应商建库项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [22, 24, "material"]]}
+{"id": 841, "text": "锡林郭勒盟文体旅游广电局艺术航空摄影拍摄服务竞争性磋商邀请书。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [16, 22, "service"]]}
+{"id": 842, "text": "森林南召智慧林业大数据管理云平台建设项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 16, "service"], [0, 8, "purchaser"]]}
+{"id": 843, "text": "眉山市市政设施管理处2020年发电机等维修机具设备采购公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 18, "material"], [19, 23, "material"], [0, 10, "purchaser"]]}
+{"id": 844, "text": "广西桂春工程项目管理咨询有限公司德保县妇幼保健院口腔五官科扩建项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [16, 24, "purchaser"], [29, 33, "engineer"]]}
+{"id": 845, "text": "广德市人民医院外科乳房活检与旋切系统采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [7, 18, "service"]]}
+{"id": 846, "text": "广东联通20182019年度税务代理及咨询项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [14, 21, "service"]]}
+{"id": 847, "text": "甘肃省武威第一中学武威一中教师办公电脑采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 19, "material"], [0, 9, "purchaser"], [9, 13, "purchaser"]]}
+{"id": 848, "text": "JW17GZ0232017年生产材料（变电类）采购（市局归口预算)项目220kV接地线等物资招标公告。", "meta": {}, "annotation_approver": null, "labels": [[40, 43, "material"], [14, 23, "material"]]}
+{"id": 849, "text": "河南郑州市二七区侯寨中心卫生院关于数字化摄影DR采购项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [17, 24, "material"]]}
+{"id": 850, "text": "[河南省]河南省郑州市城区道路路名牌整治工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 22, "engineer"]]}
+{"id": 851, "text": "广州城市用电服务有限公司广汽新能源产业园虚拟电厂项目土建专业分包竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [26, 32, "engineer"]]}
+{"id": 852, "text": "青龙寺车载式甲烷断电仪11173774青龙寺车载式甲烷断电仪11173774。", "meta": {}, "annotation_approver": null, "labels": [[8, 11, "material"], [27, 30, "material"]]}
+{"id": 853, "text": "安徽锦程安环科技发展有限公司80%股权转让。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [17, 19, "material"]]}
+{"id": 854, "text": "新疆工业职业技术学院（新疆钢铁高级技工学校）机房设备采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [22, 26, "material"], [11, 21, "purchaser"]]}
+{"id": 855, "text": "山西省农业科学院棉花研究所国有资产部分房屋及土地出租（三年）仓库北库区B5。", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "material"], [22, 24, "material"], [0, 13, "purchaser"]]}
+{"id": 856, "text": "【湖北省中心】梁子湖环湖通村（防汛）道路二期工程施工总承包招标梁子湖环湖通村（防汛）道路二期工程施工总承包HLL2标段第1次答疑(标段编号HBSJ202010SZ028001002)。", "meta": {}, "annotation_approver": null, "labels": [[18, 29, "engineer"], [42, 53, "engineer"]]}
+{"id": 857, "text": "四子王旗国源投资有限公司乌兰察布市四子王旗乌兰花镇新区易地扶贫搬迁配套道路管网工程招标公告公开招标招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [33, 41, "engineer"]]}
+{"id": 859, "text": "信丰县水东片区、信安公路水东段、建春路、老屋场路、生活垃圾填埋渗沥液处理厂、生活垃圾焚烧发电厂区内。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 860, "text": "南京市秦淮区第一中心小学电梯设备采购及相关服务。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 14, "material"]]}
+{"id": 861, "text": "武钢股份冷轧总厂废旧塑料制品销售竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 14, "material"]]}
+{"id": 863, "text": "招标公告：五冶路桥绵阳旅游环线标箱梁专业分包招标20191121。", "meta": {}, "annotation_approver": null, "labels": [[15, 18, "material"]]}
+{"id": 865, "text": "鲁西集团环氧富锌底漆询价单20201110。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 10, "material"]]}
+{"id": 866, "text": "竹山县官渡镇武陵戏楼建设工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "engineer"]]}
+{"id": 867, "text": "【枣庄市】峄城区吴林街道2020年0.3万亩高标准农田建设项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[22, 31, "engineer"]]}
+{"id": 869, "text": "乐山市犍为县住房和城乡规划建设局2019年迎春亮化工程竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [23, 27, "engineer"]]}
+{"id": 870, "text": "葫芦岛市中级人民法院关于位于辽宁东戴河新区渤海大街南侧、观前街东侧的住宅楼6楼31层3105室（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [34, 37, "material"]]}
+{"id": 871, "text": "左权电厂11月份维护补充物资电机等采购延期询价公告201812091522。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [8, 16, "material"]]}
+{"id": 873, "text": "通许县2019年度冬季清洁取暖试点建设项目。", "meta": {}, "annotation_approver": null, "labels": [[9, 19, "service"]]}
+{"id": 874, "text": "河北省高速公路承赤管理处日常养护（三大系统运营维护项目）竞争性谈判。", "meta": {}, "annotation_approver": null, "labels": [[5, 16, "engineer"]]}
+{"id": 876, "text": "询价公告：甘庄19年5月设备采购05。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 878, "text": "上海电信信息园区开发建设部四川北路65号四层卫生间整修及零星工程项目（日常维修）设计询价中选人公示。", "meta": {}, "annotation_approver": null, "labels": [[22, 32, "engineer"]]}
+{"id": 879, "text": "峨眉山市人民法院关于四川省乐山市峨眉山市绥山镇佛光东路181号2层房产（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [33, 35, "material"]]}
+{"id": 881, "text": "中国电信红河分公司2020年建水区域员工体检项目公开竞争性谈判文件。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [18, 24, "service"]]}
+{"id": 882, "text": "JSGCWCH20200291Z010000。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 884, "text": "万盛煤化煤炭检测采购预告(CG2019111918668)。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "service"]]}
+{"id": 885, "text": "秦皇岛市出海路S251石门寨至杜庄段养护（中修预防结合）工程施工。", "meta": {}, "annotation_approver": null, "labels": [[11, 20, "engineer"]]}
+{"id": 887, "text": "闽侯县白沙小学学区家具设备采购计划货物类采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [9, 13, "material"]]}
+{"id": 889, "text": "广州市番禺区信息工程方案设计和监理定点服务商谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 21, "service"]]}
+{"id": 890, "text": "武汉市公安消防局武汉支队互联网及武汉消防信息网网络增设安全设备采购第2次公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [23, 31, "material"]]}
+{"id": 892, "text": "[更正]迪庆藏族自治州民族中等专业学校清真食堂安装改建装修及厨房设备采购项目变更。", "meta": {}, "annotation_approver": null, "labels": [[4, 19, "purchaser"], [21, 29, "engineer"], [30, 34, "material"]]}
+{"id": 893, "text": "中铁十四局集团有限公司丰台站改建项目PVC泄水管采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [18, 24, "material"]]}
+{"id": 895, "text": "广州市天河区城市管理和综合执法局采购2019年环卫设施项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [23, 27, "material"]]}
+{"id": 896, "text": "韩家店水泉接入网机房市电引入改造工程局房项目施工服务采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 26, "engineer"]]}
+{"id": 898, "text": "2019年中建商品混凝土有限公司泉港厂砂石招标。", "meta": {}, "annotation_approver": null, "labels": [[5, 16, "purchaser"], [19, 21, "material"]]}
+{"id": 899, "text": "贵定县2017年度中央财政造林补贴项目低效林改造劳务补贴项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 28, "service"]]}
+{"id": 900, "text": "祁门县人民医院移动DR采购项目（进口产品）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [7, 11, "material"]]}
+{"id": 901, "text": "北京市朝阳区香河园社区卫生服务中心,熊胆滴眼液(无,滴眼剂,10ml)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [18, 23, "material"]]}
+{"id": 902, "text": "罗斯蒂精密制造（苏州）有限公司废聚碳酸酯、废聚甲醛(POM)等一批普通废料转让公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [15, 20, "material"], [21, 30, "material"], [35, 37, "material"]]}
+{"id": 903, "text": "六角头螺栓M1670。", "meta": {}, "annotation_approver": null, "labels": [[3, 5, "material"]]}
+{"id": 904, "text": "喀什阳光集团餐饮服务中心建设项目监理招标公告（二次）。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 18, "engineer"]]}
+{"id": 905, "text": "长招采询字【2019】009号长葛市公安局交通管理大队清障车采购项目二次询价公告采购公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 27, "purchaser"], [27, 30, "material"]]}
+{"id": 906, "text": "C201906180058手动咬扣器。", "meta": {}, "annotation_approver": null, "labels": [[15, 18, "material"]]}
+{"id": 908, "text": "中铁二局集团建筑公司中铁卓越城二期项目采购20180208。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 19, "engineer"]]}
+{"id": 909, "text": "城北街道CB040513地块。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 911, "text": "哈投集团2020年供热老旧管网改造项目热力公司区域项目施工。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [13, 19, "engineer"]]}
+{"id": 912, "text": "合肥骆岗中央公园智慧园区设计和咨询。", "meta": {}, "annotation_approver": null, "labels": [[10, 17, "engineer"]]}
+{"id": 913, "text": "怀柔区龙山街道社区卫生服务中心南华园四区卫生服务站,醋酸钙(无,胶囊剂,0.6g(按Ca152.1mg计))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 25, "purchaser"], [26, 29, "material"]]}
+{"id": 914, "text": "骏铃V6（江淮）156马力（D30TCIE1）（国五）（徐州）42仓栅式运输车网络拍卖公告。", "meta": {}, "annotation_approver": null, "labels": [[36, 39, "material"]]}
+{"id": 915, "text": "安徽职业技术学院2019年纺织、染整和服装实训室设备采购安装招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [21, 26, "material"], [19, 21, "material"]]}
+{"id": 916, "text": "凤阳县殷涧镇大洪山铁矿废弃矿石出售网络竞价拍卖评估价。", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "material"], [9, 11, "material"]]}
+{"id": 917, "text": "[采购公告]苍南县大玉苍山旅游集散中心电梯项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "material"]]}
+{"id": 918, "text": "岳阳电厂充电器、互感器等41项物料采购（检修电气、通讯8月）询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [4, 7, "material"], [8, 11, "material"]]}
+{"id": 919, "text": "广铁集团龙川机务段关于龙川机务段汕深高铁派班分室监控安装项目（第二次)的项目公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [24, 26, "material"]]}
+{"id": 921, "text": "南召县司法局人民调解室桌椅采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 13, "material"], [0, 6, "purchaser"]]}
+{"id": 922, "text": "【电子标】齐河县表白寺镇政府玉兔湖公园湖底防渗工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 14, "purchaser"], [19, 25, "engineer"]]}
+{"id": 924, "text": "宁洱县火车站冷链物流园建设项目监理服务。", "meta": {}, "annotation_approver": null, "labels": [[10, 19, "engineer"]]}
+{"id": 925, "text": "河南省经济管理学校新机房多媒体教室及学生计算机项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [20, 23, "material"]]}
+{"id": 927, "text": "7.19灾后农业恢复重建及产业结构调整补贴资金项目第二标段（三次）竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 12, "engineer"]]}
+{"id": 928, "text": "某型号胶接夹具改制。", "meta": {}, "annotation_approver": null, "labels": [[3, 7, "material"]]}
+{"id": 930, "text": "庐江县2019年白山镇3个中心村美丽乡村建设工程施工审计项目公开招标(定点抽签)公告[2020]。", "meta": {}, "annotation_approver": null, "labels": [[16, 28, "engineer"]]}
+{"id": 931, "text": "安徽省省属公立医院监督管理中心扫描仪直接采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [15, 18, "material"]]}
+{"id": 933, "text": "北京市九渡河镇黄坎村社区卫生服务站,沙美特罗替卡松(舒利迭,吸入剂,(50μg/250μg)/泡215;60)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [18, 25, "material"]]}
+{"id": 934, "text": "开平市水口镇寺前沙湾村鱼塘（土名：新围38亩、泮潮6亩）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 13, "material"]]}
+{"id": 936, "text": "大安市月亮泡镇2020年农村基础设施建设项目。", "meta": {}, "annotation_approver": null, "labels": [[12, 20, "engineer"]]}
+{"id": 1564, "text": "长城钻探对外合作项目部（四川页岩气项目部）浙江油田昭通项目YS108H12平台旋转导向技术服务。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [37, 47, "service"]]}
+{"id": 1565, "text": "东侨实验幼儿园安全防范监控报警、公共广播系统工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [11, 15, "service"], [16, 24, "service"]]}
+{"id": 1566, "text": "2020年秸秆综合利用项目（秸秆收储及有机肥生产设备）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 26, "material"], [14, 18, "service"]]}
+{"id": 1568, "text": "中经国际招标集团有限公司关于贵港市港南区林业局的2017年度林地及森林资源变更调查数据处理技术服务采购[项目编号：GGZC2018C330012ZJGJ]竞争性磋商采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [39, 49, "service"], [14, 23, "purchaser"]]}
+{"id": 1569, "text": "德昌县锦川镇新马村三、四社和关门村三、四社道路硬化项目。", "meta": {}, "annotation_approver": null, "labels": [[21, 25, "engineer"]]}
+{"id": 1570, "text": "洛宁县农村公路所赵村镇牡丹观光园（西西线至土桥）公路提升工程采购公告。", "meta": {}, "annotation_approver": null, "labels": [[24, 30, "engineer"]]}
+{"id": 1571, "text": "元赛采201907号：麒麟区河长制水质监测服务采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "service"]]}
+{"id": 1573, "text": "从江县丙妹镇2019年黑毛猪采购采购公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 14, "material"]]}
+{"id": 1574, "text": "毛巾三厂织造车间用传动带采购公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 12, "material"]]}
+{"id": 1575, "text": "福建医科大学融媒体采编平台等设备采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [6, 13, "service"]]}
+{"id": 1576, "text": "浙江省国际技术设备招标有限公司关于长兴县妇幼保健院第二十五届中国（浙江）国际科研医疗仪器设备技术交流展览会期间采购医疗设备的竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [57, 61, "material"], [17, 25, "purchaser"]]}
+{"id": 1577, "text": "北京市昌平区流村社区卫生服务中心,贝尼地平(无,薄膜衣片,4mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [17, 21, "material"]]}
+{"id": 1578, "text": "中铁隧道股份广州环西电力隧道项目建材采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [16, 18, "material"]]}
+{"id": 1579, "text": "武警某部五金材料供应商入围项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "material"]]}
+{"id": 1580, "text": "合肥市天鹅湖大酒店灯具采购及安装公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 11, "material"]]}
+{"id": 1581, "text": "北京市丰台区人民法院关于P38、电脑显示器一台（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [16, 21, "material"]]}
+{"id": 1582, "text": "海南电网有限责任公司2018年第四批营销项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"]]}
+{"id": 1584, "text": "关于江苏省宝应中等专业学校财经类实训基地软件采购及安装项目询价采购的公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 13, "purchaser"], [20, 22, "material"]]}
+{"id": 1585, "text": "新余市种子管理局五间店铺三年期拍租(第二次)交易公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [10, 12, "material"]]}
+{"id": 1587, "text": "河南有色汇源铝业有限公司BSHWZ19070502(18)01(包号：柱塞泵联轴器)报价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [35, 41, "material"]]}
+{"id": 1588, "text": "乌鲁木齐局集团公司工务机械段大型养路机械技术服务（宝鸡大机）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [16, 24, "service"]]}
+{"id": 1589, "text": "北京市通州区西集镇郎府社区卫生服务中心,磷霉素氨丁三醇(无,散剂,3g(以磷霉素计))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 27, "material"]]}
+{"id": 1591, "text": "福建省南安市东田镇Y019线杜厝至陈岭岩路段生命安全防护工程（招标公告）。", "meta": {}, "annotation_approver": null, "labels": [[22, 30, "engineer"]]}
+{"id": 1592, "text": "北京市丰台区花乡天骄俊园社区卫生服务站,普瑞巴林(乐瑞卡,胶囊剂,75mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 24, "material"]]}
+{"id": 1593, "text": "模具红色扁簧采购公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "material"]]}
+{"id": 1594, "text": "宁夏第四人民医院保洁项目项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 10, "service"]]}
+{"id": 1596, "text": "北京市海淀区苏家坨镇前沙涧社区卫生服务站,清热散结胶囊(无,胶囊剂,0.35g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 27, "material"]]}
+{"id": 1597, "text": "营山县芙蓉大道中段综合管廊工程施工及监理招标。", "meta": {}, "annotation_approver": null, "labels": [[11, 20, "engineer"]]}
+{"id": 1598, "text": "呼伦贝尔山金矿业有限公司煤炭采购二次招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 14, "material"]]}
+{"id": 1599, "text": "桂庙路快速化改造（一期）工程（非共线段）综合附属标。", "meta": {}, "annotation_approver": null, "labels": [[2, 8, "engineer"]]}
+{"id": 1600, "text": "齐河县潘店镇厂房建设项目。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "engineer"]]}
+{"id": 1601, "text": "[查看招标公告]莆田第三中学科学楼监控系统货物类采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "purchaser"], [17, 23, "material"]]}
+{"id": 1602, "text": "东莞市海心沙资源综合利用中心环保热电厂DCS系统设备采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [19, 26, "material"]]}
+{"id": 1603, "text": "梅塘嘴泵站改扩建工程自动化项目（第二次）招标公告（皖E02220200340）。", "meta": {}, "annotation_approver": null, "labels": [[5, 15, "engineer"]]}
+{"id": 1604, "text": "应城市人民法院关于应城市长江埠办事处新码头1号院内的应城市彪邦化工科技有限责任公司涉案财产（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [43, 45, "material"]]}
+{"id": 1605, "text": "惠州市机关幼儿园计算机设备维修和保养服务定点采购议价信息。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 20, "service"]]}
+{"id": 1606, "text": "中国东盟信息港跨境数据中心项目勘察、设计招标公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 20, "engineer"]]}
+{"id": 1608, "text": "新风路路灯改造工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[3, 9, "engineer"]]}
+{"id": 1609, "text": "滨海交通枢纽中心项目绿化工程招标/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "engineer"]]}
+{"id": 1611, "text": "原中通快递项目招租公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 1612, "text": "热电公司4号机凉水塔隐患治理PC承包。", "meta": {}, "annotation_approver": null, "labels": [[7, 14, "service"]]}
+{"id": 1614, "text": "设备策划分部10月份油品重订购（长城油）。", "meta": {}, "annotation_approver": null, "labels": [[10, 12, "material"]]}
+{"id": 1615, "text": "桂平市库区龙潭公路至坪冲农村公路K17856K32880监理服务（招标编号：GGZC2020G350226ZJGJ）施工监理招标公告。", "meta": {}, "annotation_approver": null, "labels": [[58, 62, "engineer"], [28, 32, "engineer"]]}
+{"id": 1617, "text": "北京服装学院芍药居校区运动场附属用房装修改造工程公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "engineer"], [17, 24, "engineer"]]}
+{"id": 1619, "text": "吉林市住房公积金管理中心购置龙潭分中心办公用房项目招标公告采购/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [19, 23, "material"]]}
+{"id": 1620, "text": "中国移动上海公司崇明A集035集中机房租赁项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [17, 19, "material"]]}
+{"id": 1622, "text": "磐安县冷水镇潘潭村坑口大桥工程公示。", "meta": {}, "annotation_approver": null, "labels": [[9, 15, "engineer"]]}
+{"id": 1624, "text": "石景山区苹果园街道西黄村社区卫生服务站,便通胶囊(无,胶囊剂,0.35g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 24, "material"]]}
+{"id": 1625, "text": "北京市西城区月坛街道木樨地社区卫生服务站,骨化三醇(盖三淳,软胶囊(胶丸),0.25μg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 25, "material"]]}
+{"id": 1627, "text": "济南工程职业技术学院文档云升级扩容,网络中心机房设备扩容,大数据技术实训室建设公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [10, 17, "service"], [18, 28, "service"], [29, 39, "service"]]}
+{"id": 1628, "text": "中国移动辽宁公司2017年电子渠道运营服务项目比选公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [13, 21, "service"]]}
+{"id": 1629, "text": "抚州国宏招标咨询有限公司关于宜黄县妇幼保健和计划生育服务中心自动化液体工作站竞争性谈判采购公告(编号：FZGH201830YH201870)采购/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [30, 38, "material"], [14, 30, "purchaser"]]}
+{"id": 1631, "text": "2019年常州市公厕改造提升项目钟楼区厕所改造提升五标段;招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "engineer"], [19, 25, "engineer"]]}
+{"id": 1632, "text": "辽宁2019年北票市矿区家属区供热二、三次网更新及优化工程（第一批）。", "meta": {}, "annotation_approver": null, "labels": [[21, 29, "service"]]}
+{"id": 1633, "text": "芜湖县城乡供水一体化NBloT水表采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "material"]]}
+{"id": 1635, "text": "中铁电气化局集团有限公司上海工程分公司5号线面板。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [22, 24, "material"]]}
+{"id": 1637, "text": "山东区安捷伦仪器配件询价项目。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "material"]]}
+{"id": 1638, "text": "大足区邮亭镇火车站居委1组5号仓库招租。", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "material"]]}
+{"id": 1639, "text": "北京铁路公安局2020年度民警服装采购项目（第8包）（二次招标）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [15, 17, "material"]]}
+{"id": 1640, "text": "关于申领失业补助金公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 1641, "text": "全国人大会议中心客房用电视机电话机询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [11, 14, "material"], [14, 17, "material"]]}
+{"id": 1642, "text": "重庆市渝北区委员会组织部智能设备（三次）(19A0164)采购公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "material"], [0, 12, "purchaser"]]}
+{"id": 1643, "text": "烟台高新技术产业园区规划国土建设局高新区北辅路、纬四路西延路沿石、锁边石、树池边框、人行道板采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [42, 46, "material"], [39, 41, "material"], [33, 36, "material"], [30, 32, "material"]]}
+{"id": 1644, "text": "常德市天方大数据有限公司增资信息公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"]]}
+{"id": 1645, "text": "广东省北京大学深圳医院腔镜手术器械的采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 17, "material"]]}
+{"id": 1647, "text": "中国人民解放军94005部队UPS不间断电源采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 22, "material"], [0, 14, "purchaser"]]}
+{"id": 1648, "text": "靖西市第三中学教学综合楼施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [11, 14, "engineer"]]}
+{"id": 1649, "text": "漳县财政局所需LED户外全彩显示屏项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 17, "material"], [0, 5, "purchaser"]]}
+{"id": 1650, "text": "武进区2020年老旧小区片区改造项目一标（牛塘镇贺南新村片区）。", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "engineer"]]}
+{"id": 1651, "text": "灵宝市川口乡赵家沟村连栋大棚建设项目（三次）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "engineer"]]}
+{"id": 1652, "text": "磴口县渡口镇2018年一事一议村容村貌项目竞争性谈判招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 21, "engineer"]]}
+{"id": 1653, "text": "昆山市巴城镇阳澄湖农业发展有限公司关于昆山市阳澄湖出入湖河道控制工程管理看护房项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [28, 34, "engineer"]]}
+{"id": 1654, "text": "广州市番禺区气象局天气预警中心信息系统设备项目（GZIT2010ZB0434）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [15, 21, "material"]]}
+{"id": 1655, "text": "国家知识产权局专利局低密度聚集办公安全接入平台改造扩容项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [21, 27, "service"]]}
+{"id": 1656, "text": "长沙市岳麓区人民法院关于中联牌泵车一台，车牌号为：皖A36420（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [15, 17, "material"]]}
+{"id": 1657, "text": "江西诚信伟业招标咨询有限公司关于江西经济管理干部学院采购校友会平台项目（项目编号：1493206106351056）竞争性磋商采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [28, 33, "service"], [16, 26, "purchaser"]]}
+{"id": 1658, "text": "惠民县引黄灌区农业节水工程监理标,施工标,检测标,其他标招标公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 13, "engineer"]]}
+{"id": 1659, "text": "北京市朝阳区团结湖社区卫生服务中心,氯沙坦(科素亚,薄膜衣片,50mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [18, 21, "material"]]}
+{"id": 1660, "text": "B线检测线线体改造。", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "engineer"]]}
+{"id": 1661, "text": "定量磁共振和功能磁共振数据采集服务。", "meta": {}, "annotation_approver": null, "labels": [[11, 17, "service"]]}
+{"id": 1662, "text": "鹤峰县走马镇林场至红罗沟道路建设工程招标文件。", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "engineer"]]}
+{"id": 1663, "text": "华能贵州观风海七里半风电项目2200kVA、35kV箱式变电站(华变）设备采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[28, 31, "material"]]}
+{"id": 1664, "text": "南京市浦口医院设备采购调研报名公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"]]}
+{"id": 1665, "text": "重庆市医药科技学校办公用品及低值易耗品采购竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 13, "material"], [14, 19, "material"]]}
+{"id": 1666, "text": "北京市怀柔区杨宋镇社区卫生服务中心（北京市怀柔区杨宋镇卫生院）,仙灵骨葆胶囊(无,胶囊剂,0.5g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[32, 38, "material"], [0, 31, "purchaser"]]}
+{"id": 1667, "text": "樟树市人民法院黄土岗法庭施工图审查项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [10, 17, "service"]]}
+{"id": 1668, "text": "江西省机电设备招标有限公司关于江西省冶金高级技工学校9、10、11学生公寓楼线路施工方采购项目（项目编号：JXTC2018070362）竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [37, 42, "engineer"]]}
+{"id": 1669, "text": "福建省建瓯第一中学新校区理化生实验室设备货物类采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [15, 23, "material"]]}
+{"id": 1670, "text": "四川省南充市蓬安县金溪中心卫生院医疗设备采购项目公开招标采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [16, 20, "material"]]}
+{"id": 1671, "text": "安得智联江苏分公司大家电配送运输招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [11, 16, "service"]]}
+{"id": 1672, "text": "询价公告：电器用品等49处里必。", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "material"]]}
+{"id": 1673, "text": "澄源村龙潭桥至村民活动中心河段防洪堤及其亲水平台和休闲步道项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 18, "engineer"], [0, 13, "purchaser"], [25, 31, "engineer"]]}
+{"id": 1674, "text": "南京汽车集团有限公司IS21包边压机国际招标公告(2)。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [14, 18, "material"]]}
+{"id": 1675, "text": "中国中医科学院西苑医院,吸入用乙酰半胱氨酸溶液(无,吸入溶液剂,1.5ml)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [12, 23, "material"]]}
+{"id": 1676, "text": "泽普县2020年乡级农贸市场改建项目监理三标段。", "meta": {}, "annotation_approver": null, "labels": [[10, 20, "engineer"]]}
+{"id": 1677, "text": "通州区平潮镇城东佳苑一期工程通州区平潮镇城东佳苑一期工程施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[26, 30, "engineer"]]}
+{"id": 1678, "text": "信阳市政路桥工程PPP项目经理部标彩条布等询价采购。", "meta": {}, "annotation_approver": null, "labels": [[16, 20, "material"], [4, 8, "engineer"]]}
+{"id": 1679, "text": "广东省中山大学附属第八医院（深圳福田）精细手术器械等政府采购意向公开表。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [19, 25, "material"]]}
+{"id": 1680, "text": "2019年校舍维修改造（第一批）项目一标段[控制价公告]。", "meta": {}, "annotation_approver": null, "labels": [[5, 11, "engineer"]]}
+{"id": 1681, "text": "中铁二十二局集团一公司新白广项目部采购其他材料一批。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"]]}
+{"id": 1682, "text": "校验仪器采购计划。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "material"]]}
+{"id": 1683, "text": "河北省特种设备监督检验研究院2018年进口设备采购公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [19, 23, "material"]]}
+{"id": 1684, "text": "广西科联招标中心有限公司关于武警指挥部信息网络设备及配套系统集成服务采购GXZC2019J125583KLZB竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [21, 34, "service"]]}
+{"id": 1685, "text": "妙高山周边景观提升项目（施工）。", "meta": {}, "annotation_approver": null, "labels": [[5, 11, "engineer"]]}
+{"id": 1686, "text": "肥东县马湖乡沙河村大鲁组安置房及美丽乡村项目（三期）。", "meta": {}, "annotation_approver": null, "labels": [[12, 22, "engineer"]]}
+{"id": 1687, "text": "ZB2017HW166南京大学非平衡磁控等离子体团簇束流源公开招标公告（二次）。", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "purchaser"], [15, 29, "material"]]}
+{"id": 1688, "text": "2020年绥化市北林区高标准农田建设项目19标段清单.xlsx。", "meta": {}, "annotation_approver": null, "labels": [[11, 20, "engineer"]]}
+{"id": 1689, "text": "宜宾市中级人民法院关于翰林府邸二期负二层地下车位：E241（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [22, 24, "material"]]}
+{"id": 1690, "text": "海安市老坝港滨海新区20192020年路灯管护工程二次招标。", "meta": {}, "annotation_approver": null, "labels": [[19, 25, "engineer"]]}
+{"id": 1691, "text": "长顺县在水一方项目边坡支护工程和室外环境工程施工公开发包。", "meta": {}, "annotation_approver": null, "labels": [[9, 15, "engineer"], [16, 24, "engineer"]]}
+{"id": 1692, "text": "关于为【南头镇升平南路（南头大道同乐路）污水管道工程】公开选取【工程监理】机构的公告。", "meta": {}, "annotation_approver": null, "labels": [[20, 26, "engineer"], [32, 36, "engineer"]]}
+{"id": 1693, "text": "螺村二号厂房出租。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "purchaser"]]}
+{"id": 1694, "text": "北京市朝阳区垡头社区卫生服务中心（翠城）,奥美沙坦酯(兰沙,素片,20mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 26, "material"]]}
+{"id": 1695, "text": "北京市海淀区八里庄街道亮甲店社区卫生服务站,百令胶囊(无,胶囊剂,0.5g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "purchaser"], [22, 26, "material"]]}
+{"id": 1696, "text": "玻璃事业部金科博山快速接头等公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "material"]]}
+{"id": 1697, "text": "YDCSH20190803：2018共建中西部高校基础能力建设工程基础教学平台建设（五）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[25, 41, "engineer"]]}
+{"id": 1698, "text": "江西省鼎跃招标咨询有限公司关于江西省南昌市现代教育技术中心（十六中）理化生数字探究实验室改造项目(项目编号：JXDY2019J0225)竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [41, 46, "engineer"], [15, 29, "purchaser"]]}
+{"id": 1699, "text": "中国人民解放军61415部队马蹄坑10KV线路维修工程施工（二次）竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [21, 29, "engineer"]]}
+{"id": 1700, "text": "河南公司民权公司2020年10月份无缝钢管、弯头、槽钢询价采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [17, 21, "material"], [22, 24, "material"], [25, 27, "material"]]}
+{"id": 1701, "text": "四川省内江市资中县公安局出入境港澳通行证自助签注机(第3次)采购项目竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [20, 25, "material"]]}
+{"id": 1702, "text": "钢材询比价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"]]}
+{"id": 1703, "text": "湖南省微生物研究院2019年实验室仪器设备采购2019年实验室仪器设备采购第一包、2019年实验室仪器设备采购第二包。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [14, 21, "material"], [28, 35, "material"], [46, 53, "material"]]}
+{"id": 1704, "text": "厦门万翔公开招标XM2017TZ5107滑触线供电系统（含滑触线和自动切合取电小车）采购。", "meta": {}, "annotation_approver": null, "labels": [[20, 27, "service"], [29, 32, "material"], [37, 41, "material"]]}
+{"id": 1705, "text": "深圳市罗湖教工幼儿园音乐厅二装及其他修缮工程项目公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [18, 22, "engineer"]]}
+{"id": 1706, "text": "福安市上白石中心卫生院测温人脸安检门采购项目邀请招标公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "material"], [0, 11, "purchaser"]]}
+{"id": 1707, "text": "国家重点生态功能区攀枝花市东区2017年度密地五社森林植被恢复项目勘察、设计。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [25, 35, "engineer"]]}
+{"id": 1708, "text": "国网黑龙江五大连池市供电有限公司35kV和平变电站生产辅助设施大修招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [25, 33, "service"]]}
+{"id": 1709, "text": "烟台市莱山区人民政府办公室网络机房升级改造公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [15, 21, "engineer"]]}
+{"id": 1713, "text": "秦皇岛市海港区北环路40号1101号房产司法拍卖公告。", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "material"]]}
+{"id": 1714, "text": "云之龙招标集团有限公司大鹏镇罗德村独松片农村饮水安全工程（重）GGZC2018J264585GXYL竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [22, 28, "engineer"]]}
+{"id": 1715, "text": "北京市残疾人文化体育指导中心残疾人体育训练及赛事经费全国第十届残运会冬季项目器材及装备采购公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [34, 40, "material"]]}
+{"id": 1716, "text": "佛冈县石角镇中心小学吉田分教点新建教学楼及附属工程公开招标招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [17, 25, "engineer"]]}
+{"id": 1717, "text": "619附图附样加工询比价公告。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 1718, "text": "酒钢宏达建材有限责任公司物料密封堆棚建设项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 20, "engineer"]]}
+{"id": 1719, "text": "桉树林木采伐项目转让公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 8, "service"]]}
+{"id": 1720, "text": "九江县江新洲灌区节水配套改造工程EPC项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 21, "engineer"]]}
+{"id": 1721, "text": "武侯科技园片区两条10KV供电线路建设项目（监理）比选公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 25, "engineer"]]}
+{"id": 1722, "text": "周浦镇政务网网络服务能力提升的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 14, "service"]]}
+{"id": 1723, "text": "忻州联通云数据机房配套消防项目施工服务比选公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 19, "engineer"]]}
+{"id": 1724, "text": "福州市文物局福建协和大学建筑群国保申报文本编制（调查、测绘等）服务类采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [19, 23, "service"]]}
+{"id": 1725, "text": "江西省吉安市政府采购中心学生机、服务器等公开招标公告吉政采[2008]029号。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [12, 15, "material"], [16, 19, "material"]]}
+{"id": 1726, "text": "MFD14cg00338702018SZA9612款PCB杨晓辉。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 1727, "text": "察哈素煤矿31205工作面液压支架电液控维修【二次挂网】招标公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 22, "service"]]}
+{"id": 1728, "text": "淄博市公安局交通警察支队公务印刷服务招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 18, "service"]]}
+{"id": 1729, "text": "询价公告：安环部超声波明渠流量计采购。", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "material"]]}
+{"id": 1730, "text": "桐城市人民法院关于桐城市经济开发区龙腾路天红公馆二期1幢104等7户室商业用房（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [35, 39, "material"]]}
+{"id": 1731, "text": "开封县教育体育局关于开封县学校平安校园安全保卫设备采购安装工程项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [19, 25, "material"]]}
+{"id": 1732, "text": "杭州华旗招标代理有限公司关于苍南县海洋渔业局苍南县海洋渔业局增殖放流采购的竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [14, 30, "purchaser"], [30, 34, "service"]]}
+{"id": 1733, "text": "北京市朝阳区黑庄户地区大鲁店社区卫生服务站,沙丁胺醇(万托林,气雾剂,100μg/揿(200揿))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "purchaser"], [22, 26, "material"]]}
+{"id": 1734, "text": "省网上政务服务及政务信息资源共享平台硬件支撑环境扩容升级。", "meta": {}, "annotation_approver": null, "labels": [[16, 28, "service"]]}
+{"id": 1735, "text": "贵阳市观山湖区人民法院关于观山湖区长岭北路中天会展城A13A14栋3单元30层6号住房（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [41, 43, "material"]]}
+{"id": 1736, "text": "中铁四局五公司沈阳市辽西北供水（法库县）管网项目采购安全帽。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [26, 29, "material"]]}
+{"id": 1737, "text": "东莞市第三人民法院关于罗增强名下停放于东莞市横沥镇村头昌昊停车场内粤SYJ542号小型汽车（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [41, 45, "material"]]}
+{"id": 1738, "text": "重庆市南岸区人民法院关于重庆市黔江区正阳街道桐坪居委正舟南路366号谊隆时代广场2号楼311号房屋（变卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [47, 49, "material"]]}
+{"id": 1739, "text": "广安金卓建设有限公司岳池县北城乡普庵寺村等8个村土地整理项目钢筋供应商公开竞选公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [24, 30, "engineer"]]}
+{"id": 1740, "text": "惠东县高潭镇黄洲村小花池绿化建设工程采购预算编制服务。", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "engineer"]]}
+{"id": 1741, "text": "宁波市生态环境局余姚分局省控站点大气自动监测仪器设备更新采购项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [18, 26, "material"]]}
+{"id": 1742, "text": "邵阳县政府投资项目审计初审中介机构更新入库服务项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [9, 17, "service"]]}
+{"id": 1743, "text": "天津市天津医院天津医院门诊管理系统升级改造项目(项目编号:XFZB2020TJHXZF235)公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [13, 23, "service"]]}
+{"id": 1744, "text": "聊城人力资源和社会保障信息化建设设备采购项目（第一批次）。", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "material"]]}
+{"id": 1745, "text": "国家税务总局长沙市雨花区税务局机关物业管理服务项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "service"], [0, 15, "purchaser"]]}
+{"id": 1746, "text": "鹤壁市政务服务和大数据管理局鹤壁市党政服务平台公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "service"], [0, 14, "purchaser"]]}
+{"id": 1747, "text": "[社会代理]长春高新区生物医药产业园（一区）载体蛋白生产线碟式离心机采购及安装招标公告（二次）。", "meta": {}, "annotation_approver": null, "labels": [[31, 34, "material"]]}
+{"id": 1748, "text": "北流市人民法院关于北流市松中路松木岭旧城改造一期新天地商业街二期A栋三单元904号房产（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [41, 43, "material"]]}
+{"id": 1749, "text": "隆德县职业中学2020年现代职业教育质量提升计划项目工程机械实训基地设备采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [26, 36, "material"], [12, 26, "service"]]}
+{"id": 1750, "text": "中铁三局汕汕一分部采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"]]}
+{"id": 1751, "text": "枝江市紫荆岭学校研学旅行委托旅行社招标询价公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "service"], [0, 8, "purchaser"]]}
+{"id": 1752, "text": "义乌市政府采购中心关于义乌市妇幼保健院医疗设备的竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [19, 23, "material"], [11, 19, "purchaser"]]}
+{"id": 1753, "text": "关于杭州电子科技大学车棚改造项目的废标公告[浙江华诚建设工程招标代理有限公司]。", "meta": {}, "annotation_approver": null, "labels": [[2, 10, "purchaser"], [10, 16, "engineer"], [22, 38, "purchaser"]]}
+{"id": 1754, "text": "中科科仪高端仪器装备产业园项目方案及施工图设计招标文件。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [13, 23, "engineer"]]}
+{"id": 1755, "text": "交通公司合宁高速改扩建路基路面工程01标工程挖掘机租赁招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [6, 17, "engineer"], [22, 25, "material"]]}
+{"id": 1756, "text": "石家庄市中心医院医疗设备采购招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 12, "material"]]}
+{"id": 1757, "text": "深圳市华昊咨询有限公司关于江西省教育厅2011年度省职教基础能力建设项目（赣州农业学校）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [26, 36, "service"]]}
+{"id": 1758, "text": "东莞市第二人民法院关于方瑞金的位于东莞市厚街镇珊美村珊美兴仁巷15号的土地使用权及地上建筑物（变卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [35, 40, "material"], [41, 46, "material"]]}
+{"id": 1759, "text": "房山区良乡地区昊天社区卫生服务站,二甲双胍(格华止,薄膜衣片,0.5g)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [17, 21, "material"]]}
+{"id": 1760, "text": "四川省泸州市江阳区石寨镇久桥河防洪治理工程勘察测量服务单位采购（第二次）。", "meta": {}, "annotation_approver": null, "labels": [[21, 27, "service"], [0, 12, "purchaser"], [15, 21, "engineer"]]}
+{"id": 1762, "text": "驻马店市中医院医疗设备院内论证公告。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "material"], [0, 7, "purchaser"]]}
+{"id": 1763, "text": "淮安司法局12348法网淮安站升级项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 19, "service"]]}
+{"id": 1764, "text": "汕头市中心医院老康复楼扩建电梯及A楼餐梯改造工程（工程编号：HSGCZB201541）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [10, 13, "engineer"], [18, 22, "engineer"]]}
+{"id": 1765, "text": "宁陵县梨都御景南苑棚户区改造安置房项目红线外配套基础设施项目监理竞争性谈判采购公告。", "meta": {}, "annotation_approver": null, "labels": [[22, 28, "material"]]}
+{"id": 1766, "text": "松下（Panasonic）投影仪及幕布PTX3271STC竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "material"]]}
+{"id": 1767, "text": "关于铜陵市在建安置住房和保障性住房质量专项排查情况的通报。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "service"]]}
+{"id": 1768, "text": "成都市成华区人民法院关于天彭镇泰安北路575号1栋1单元2楼5号（第二次拍卖）的公告(二次)。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [29, 30, "material"]]}
+{"id": 1769, "text": "成都市青羊区人民法院关于温江区天乡路二段939号丛林背景1栋4单元6楼10号房屋及室内装修（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [38, 45, "material"]]}
+{"id": 1770, "text": "国家税务总局吉林省税务局系统网络设备维保及运维服务项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [12, 25, "service"]]}
+{"id": 1771, "text": "赤壁市疾病预防控制中心赤壁市疾病预防控制中心电子计算机断层扫描仪（CT）采购项目招标(采购)公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [29, 32, "material"]]}
+{"id": 1772, "text": "中铁十四局深江铁路油料询价单。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [9, 11, "material"]]}
+{"id": 1773, "text": "金沙县教育科技局教育基建工程档案整理单位采购项目自行询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [14, 18, "service"]]}
+{"id": 1774, "text": "北京市朝阳区大屯街道慧忠里社区卫生服务站,特拉唑嗪(泰乐,胶囊剂,2mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 25, "material"]]}
+{"id": 1775, "text": "天水中材密封环343比价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "material"]]}
+{"id": 1776, "text": "中石化石油工程建设有限公司石工建20172018高低压电器元件框架协议采购高低压电器元件（包B1石工建20172018高压电器元件框架协议采购）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [37, 44, "material"]]}
+{"id": 1777, "text": "重庆市精神卫生中心关于购买防火墙的招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [13, 16, "service"]]}
+{"id": 1778, "text": "朱坝街道办事处富民村污水管网工程公告。", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "engineer"], [0, 7, "purchaser"]]}
+{"id": 1779, "text": "江苏省扬州市农业综合行政执法支队瘦肉精三联快速检测卡采购项目谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [16, 26, "material"]]}
+{"id": 1780, "text": "210101TP002009066001001的招标文件。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 1781, "text": "杭锦后旗人民法院关于杭锦后旗曦诚制造有限责任公司所有的位于杭锦后旗陕坝镇糖厂街土地及地上建筑（第二次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [39, 46, "material"]]}
+{"id": 1782, "text": "富阳区胥口镇里坞村建设用地复垦项目2017。", "meta": {}, "annotation_approver": null, "labels": [[9, 17, "engineer"]]}
+{"id": 1783, "text": "广西汽车城柳州东外环柳东段上跨湘桂铁路工程施工总价承包招标公告。", "meta": {}, "annotation_approver": null, "labels": [[17, 23, "engineer"]]}
+{"id": 1784, "text": "夏津县人民法院关于罚没三星S7手机（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [15, 17, "material"]]}
+{"id": 1785, "text": "焉耆广熠热力有限公司2019年供热燃煤采购项目竞争性磋商招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [15, 19, "material"]]}
+{"id": 1872, "text": "浙江开平企业管理咨询有限公司关于义乌市人民政府稠江街道办事处义乌市稠江街道池塘警示标识牌采购及安装的竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [41, 44, "material"], [16, 30, "purchaser"]]}
+{"id": 1873, "text": "广南县广府名苑小区西南侧32米市政道路及西北侧40米市政道路建设项目EPC。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [27, 37, "engineer"]]}
+{"id": 1874, "text": "常州市金坛区人民法院关于浙江省绍兴市新昌县泰坦大道881号9幢9229号（第一次拍卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"]]}
+{"id": 1875, "text": "惠来县公安局警务辅助人员被装采购项目询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "purchaser"], [12, 14, "material"]]}
+{"id": 1876, "text": "达日县德昂乡莫日合村新农村建设项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "engineer"]]}
+{"id": 1877, "text": "[石城县][线下]赣州市源信招标代理有限公司关于江西省石城县自然资源局石城县2020年土地征收项目征地社会稳定风险评估项目（编号：GZYX2020SCC0141）竞争性磋商的采购公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 22, "purchaser"], [24, 35, "purchaser"], [51, 61, "service"]]}
+{"id": 1878, "text": "JZFCGG2018075号许昌市东城区管理委员会办公室许昌市东城区管理委员会办公室许都大剧院保洁服务及玻璃幕墙清洗服务项目采购公告采购/资审公告。", "meta": {}, "annotation_approver": null, "labels": [[28, 39, "purchaser"], [47, 51, "service"], [56, 60, "service"]]}
+{"id": 1879, "text": "白濠振华街1号、3号商住楼。", "meta": {}, "annotation_approver": null, "labels": [[10, 13, "material"]]}
+{"id": 1880, "text": "安岳县妇幼保健院住院大楼工程特殊区域净化项目补遗书1号。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [16, 22, "engineer"]]}
+{"id": 1881, "text": "中华人民共和国廊坊海关中央空调管道更新改造工程公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [11, 17, "material"], [19, 23, "engineer"]]}
+{"id": 1882, "text": "黄埔区云埔街刘村社区经济联合社公开招聘财务人员公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [19, 23, "service"]]}
+{"id": 1883, "text": "中国电建水电十局安装分局老挝东萨宏水电站工程（DonSahongHPP·LAOS）0.4kV低压开关柜及24kV高压柜采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [56, 59, "material"]]}
+{"id": 1884, "text": "山西交通控股集团有限公司吕梁北高速公路分公司养护工程勘察设计二次招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [22, 30, "engineer"]]}
+{"id": 1885, "text": "交通银行股份有限公司珠海分行2020年春聚183;大家园客户活动项目项目公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [28, 34, "service"]]}
+{"id": 1886, "text": "山西石油分公司2020年朔州油库含油污水处理装置更换环保隐患治理项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [18, 24, "material"], [26, 32, "service"]]}
+{"id": 1887, "text": "城馨天怡前期物业服务。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "service"]]}
+{"id": 1888, "text": "平陆县张村镇申咀村产业配套设施建设项目。", "meta": {}, "annotation_approver": null, "labels": [[11, 17, "engineer"]]}
+{"id": 1889, "text": "小型旋钮NBF516。", "meta": {}, "annotation_approver": null, "labels": [[2, 4, "material"]]}
+{"id": 1890, "text": "关于八步区民政局旅游壶询价采购公告。", "meta": {}, "annotation_approver": null, "labels": [[2, 8, "purchaser"], [10, 11, "material"]]}
+{"id": 1891, "text": "贡街招商办公室装修工程。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "engineer"]]}
+{"id": 1892, "text": "过滤器配件【烯烃部EM计划】(独家采购)。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "material"]]}
+{"id": 1893, "text": "广西科联招标中心广西大学图书馆图书搬迁服务（GXZC2018J318642KLZB）竞标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 15, "purchaser"], [17, 21, "service"]]}
+{"id": 1894, "text": "中国石油化工股份有限公司西南油气分公司收发球筒撬收发球筒招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [19, 24, "material"], [24, 28, "material"]]}
+{"id": 1895, "text": "长安区第二初级中学改扩建项目。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"], [9, 14, "engineer"]]}
+{"id": 1896, "text": "询价公告：5月份二级单位委托采购大罐笼稳罐装置配件3项物资。", "meta": {}, "annotation_approver": null, "labels": [[21, 25, "material"]]}
+{"id": 1897, "text": "昆明市中级人民法院关于昆明市老民航路与关兴路交叉口峨山温泉公寓A幢1006号（变卖）的公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "purchaser"]]}
+{"id": 1898, "text": "阜宁天鹅湖国际广场商住小区电缆和高、低压柜采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [13, 15, "material"], [18, 21, "material"]]}
+{"id": 1899, "text": "宁夏体育彩票管理中心盐池户外广告牌采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [14, 17, "material"]]}
+{"id": 1900, "text": "招标公告：嘉松公路（G318嘉定区界）改建工程2标钢箱梁、制作安装工程钢结构制作工程招标。", "meta": {}, "annotation_approver": null, "labels": [[29, 38, "engineer"], [25, 28, "material"]]}
+{"id": 1901, "text": "北京市朝阳区八里庄第二社区卫生服务中心,雌二醇(补佳乐,糖衣片,1mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "purchaser"], [20, 23, "material"]]}
+{"id": 1902, "text": "贵州粤黔电力有限责任公司3、4号炉风粉系统热工设备治理。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [21, 27, "service"]]}
+{"id": 1903, "text": "武汉长江现代水务发展有限公司PPR管采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [14, 18, "material"]]}
+{"id": 1904, "text": "国家税务总局上海市税务局电子税务局线下实名办税公共服务平台公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "purchaser"], [23, 29, "service"]]}
+{"id": 1905, "text": "180102.九、十号线多媒体培训教室在线培训考试系统委外服务。", "meta": {}, "annotation_approver": null, "labels": [[21, 31, "service"]]}
+{"id": 1906, "text": "海南东风南方物流中心项目（一号楼和三号楼）施工（二次招标）。", "meta": {}, "annotation_approver": null, "labels": [[6, 23, "engineer"]]}
+{"id": 1908, "text": "曲靖一中麒麟学校实验室二期建设项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 15, "engineer"]]}
+{"id": 1910, "text": "[JG20202594]南澳联络线高速公路项目勘察设计招标公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 27, "engineer"]]}
+{"id": 1911, "text": "湖州南太湖新区城市建设发展中心公开选取招标（采购）代理。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"]]}
+{"id": 1913, "text": "南方医院医疗综合楼手术室人员行为管理系统和数字一体化招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "purchaser"], [14, 20, "service"], [21, 26, "service"]]}
+{"id": 1914, "text": "[政府采购协议供货]积石山县关家川乡卫生院采购公共卫生宣传资料。", "meta": {}, "annotation_approver": null, "labels": [[10, 21, "purchaser"], [27, 31, "material"]]}
+{"id": 1916, "text": "【非必招】东升村合利礼堂修复工程招标公告。", "meta": {}, "annotation_approver": null, "labels": [[10, 16, "engineer"]]}
+{"id": 1918, "text": "202106漳州中集询价项目（劳保用品）采购公告。", "meta": {}, "annotation_approver": null, "labels": [[15, 19, "material"]]}
+{"id": 1920, "text": "云阳县江南急救中心(云阳县龙角镇中心卫生院)建设项目预算编制的招标代理服务。", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "purchaser"], [22, 30, "engineer"]]}
+{"id": 1921, "text": "宁海县浦西幼儿园新建工程设计招标代理（建设工程）。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [19, 23, "engineer"]]}
+{"id": 1923, "text": "大唐电白新能源有限公司岭门风电场风机道路维修工程询价采购项目询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [18, 24, "engineer"]]}
+{"id": 1925, "text": "sz2021040800043采购台式计算机项目需求公告。", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "material"]]}
+{"id": 1926, "text": "中铝中州矿业有限公司三门峡分公司矿石对外销售竞价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "purchaser"], [16, 18, "material"]]}
+{"id": 1927, "text": "赫山区2021年高标准农田建设项目设计。", "meta": {}, "annotation_approver": null, "labels": [[8, 17, "engineer"]]}
+{"id": 1929, "text": "广西路建集团二公司崇爱二分部采购无缝钢管、钢板。", "meta": {}, "annotation_approver": null, "labels": [[16, 20, "material"], [21, 23, "material"], [0, 9, "purchaser"]]}
+{"id": 1931, "text": "国网北京朝阳供电公司老旧小区配电设施改造项目（团结湖公寓）专业分包。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [14, 22, "engineer"]]}
+{"id": 1932, "text": "广东省食品药品职业技术学校电教信息类规划、设计咨询服务项目（GZSW21156FG1044）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [13, 20, "service"], [21, 27, "service"]]}
+{"id": 1935, "text": "手机。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"]]}
+{"id": 1937, "text": "[JG202110321]花都区第二轮道路绿化品质提升工程。", "meta": {}, "annotation_approver": null, "labels": [[19, 23, "engineer"]]}
+{"id": 1938, "text": "招标公告：中国十九冶宜宾市宜南快速项目旋挖租赁招标公告。", "meta": {}, "annotation_approver": null, "labels": [[5, 10, "purchaser"], [19, 21, "material"]]}
+{"id": 1940, "text": "济南市莱芜区农业农村局济南市莱芜区2021年北白座村乡村振兴齐鲁样板村工程建设项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [34, 39, "engineer"]]}
+{"id": 1942, "text": "招标公告：中冶天工莆田北岸两岸智能医疗产业园项目一期（A地块）室外工程二标段。", "meta": {}, "annotation_approver": null, "labels": [[31, 35, "engineer"]]}
+{"id": 1943, "text": "冷轧厂机加工件一批。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "material"]]}
+{"id": 1945, "text": "关于杭州市余杭区勾庄中心幼儿园及分园交互一体设备等采购项目的公开招标公告[杭州华厦建筑咨询有限公司]。", "meta": {}, "annotation_approver": null, "labels": [[2, 18, "purchaser"], [18, 24, "material"]]}
+{"id": 1946, "text": "【内蒙古丰电能源发电有限责任公司200MW检修实训基地建设】招标公告。", "meta": {}, "annotation_approver": null, "labels": [[1, 16, "purchaser"], [25, 29, "engineer"]]}
+{"id": 1948, "text": "合肥市淮河路266号香港广场部分房产招租标的六：1幢2306室。", "meta": {}, "annotation_approver": null, "labels": [[16, 18, "material"]]}
+{"id": 1950, "text": "北京丰台医星中西医结合医院,马来酸依那普利叶酸(无,素片,马来酸依那普利10mg,叶酸0.8mg)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [14, 23, "material"]]}
+{"id": 1951, "text": "江西华灏工程造价咨询有限公司关于南丰中等专业学校机房设备采购项目（招标编号：JXHHNF2021J039）竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [24, 28, "material"], [16, 24, "purchaser"]]}
+{"id": 1952, "text": "贵定县宝山街道高源村小岩寨土地综合整治项目施工招标公告。", "meta": {}, "annotation_approver": null, "labels": [[13, 23, "engineer"]]}
+{"id": 1953, "text": "广西万盯卯招标咨询有限公司兴安县人民医院乙类大型医用设备采购（GLZC2021G1250094WDMZ）公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "purchaser"], [22, 28, "material"], [13, 20, "purchaser"]]}
+{"id": 1954, "text": "新疆华电雪湖风力发电有限公司享有的乌鲁木齐达坂城D区大连湖220kV升压站11.11%资产份额。", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "purchaser"], [43, 47, "material"]]}
+{"id": 1955, "text": "中国电信股份有限公司三明分公司2021年清流县公共安全视频监控建设联网软件开发服务项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [27, 33, "service"], [35, 37, "material"]]}
+{"id": 1956, "text": "湖州南浔金杭房地产开发有限公司公开选取工程咨询。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [19, 23, "service"]]}
+{"id": 1957, "text": "龙岩市第一幼儿园消毒柜货物类采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [8, 14, "material"]]}
+{"id": 1958, "text": "惠联热电石塘湾雨天物流门口过路管改造项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "engineer"]]}
+{"id": 1960, "text": "土豆荷兰土豆。", "meta": {}, "annotation_approver": null, "labels": [[0, 2, "material"], [2, 6, "material"]]}
+{"id": 1961, "text": "巴南区石滩镇双寨等（2）个村土地整理项目测绘、规划设计与预算编制采购公告。", "meta": {}, "annotation_approver": null, "labels": [[14, 22, "engineer"], [23, 32, "service"]]}
+{"id": 1962, "text": "PVC给水直接D20。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "material"]]}
+{"id": 1964, "text": "嘉兴科技城20212023年景观绿化设计服务入围招标信息发布表。", "meta": {}, "annotation_approver": null, "labels": [[14, 22, "engineer"]]}
+{"id": 1965, "text": "福建能源雁石公司2021年度管道车氢气长协（有附件）询价采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [14, 21, "material"]]}
+{"id": 1967, "text": "中国医学科学院肿瘤医院,丙氨酰谷氨酰胺氨基酸（18）(无,注射液,300ml（丙氨酰谷氨酰胺注射液50ml：10g与复方氨基酸注射液（18AA）250ml:12.5g(总氨基酸))采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [12, 22, "material"]]}
+{"id": 1968, "text": "成建十分司锦城逸景二期（石胜新居）项目F1区电梯安装分包任务。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [22, 28, "service"]]}
+{"id": 1970, "text": "重水。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 1972, "text": "中国电信股份有限公司遂宁分公司街市花园营业厅2021年至2022年营业服务外包项目（第二次）。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [33, 39, "service"]]}
+{"id": 1973, "text": "宁波市斯正项目管理咨询有限公司关于蛟川街道青枫雅苑幼儿园幼儿教学课桌椅等采购项目的公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "purchaser"], [33, 35, "material"], [17, 28, "purchaser"]]}
+{"id": 1975, "text": "北京市丰台区王佐镇魏各庄村社区卫生服务站,精蛋白锌重组人胰岛素混合(优泌林70/30,注射用混悬剂,3ml:300IU)采购结果。", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "purchaser"], [21, 33, "material"]]}
+{"id": 1976, "text": "密封圈。", "meta": {}, "annotation_approver": null, "labels": [[0, 3, "material"]]}
+{"id": 1978, "text": "[招标公告]国家税务总局龙胜各族自治县税务局2021年1月2021年12月物业管理服务采购磋商（GLSW2021C3011KLZB）公告。", "meta": {}, "annotation_approver": null, "labels": [[6, 22, "purchaser"], [37, 43, "service"]]}
+{"id": 1979, "text": "金寨县廖磊之墓主墓墓碑维修项目询价发包公告。", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "engineer"]]}
+{"id": 1980, "text": "白马寺景区聘用保安公司项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "purchaser"], [7, 9, "service"]]}
+{"id": 1981, "text": "青岩古镇文旅推广小程序。", "meta": {}, "annotation_approver": null, "labels": [[6, 11, "service"]]}
+{"id": 1982, "text": "江西国政招标咨询有限公司关于江西省肿瘤医院采购瓦里安Truebeam加速器及Acuity模拟定位机维保服务项目（招标编号：JXGZ2021081109）电子化政府采购公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "purchaser"], [34, 37, "material"], [44, 49, "material"]]}
+{"id": 1984, "text": "市桥街辖内7条村排水管网（含污水管、合流管、雨水管）摸查采购项目招标公告。", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "material"], [14, 17, "material"], [18, 21, "material"], [22, 25, "material"]]}
+{"id": 1985, "text": "关于医疗设备维保服务1年的在线询价公告[宁波市海曙区第二医院]。", "meta": {}, "annotation_approver": null, "labels": [[2, 10, "service"], [20, 30, "purchaser"]]}
+{"id": 1987, "text": "青岛山大齐鲁医院4K极清荧光内窥镜摄像系统采购项目公开招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [14, 21, "service"]]}
+{"id": 1989, "text": "国家电投河南公司集中采购第10周采购计划8（开封分公司电气材料）询价公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [27, 31, "material"]]}
+{"id": 1990, "text": "中铁六局太原公司地铁项目部新兰路工地直螺纹套筒采购。", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "purchaser"], [19, 23, "material"]]}
+{"id": 1992, "text": "[单轮竞价]全科楼10楼平台办公网络、投影等设备采购(MYZC网竞〔2。", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "material"], [19, 21, "material"]]}
+{"id": 1993, "text": "徐家河莲河家园AG6号老年公寓及住宅楼项目（EPC）招标公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "purchaser"], [13, 26, "engineer"]]}
+{"id": 1995, "text": "[经济技术开发区]建管处20182019年度勘测单位项目审计。", "meta": {}, "annotation_approver": null, "labels": [[22, 30, "service"]]}
+{"id": 1996, "text": "20210425磷生铁。", "meta": {}, "annotation_approver": null, "labels": [[8, 11, "material"]]}
+{"id": 1998, "text": "杭州汽车高级技工学校便携式计算机采购项目采购公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "purchaser"], [13, 16, "material"]]}
+{"id": 1999, "text": "人事局采购办公耗材。", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "material"], [0, 3, "purchaser"]]}
+{"id": 2001, "text": "友谊县机关事务服务中心友谊县各乡镇采购电脑、打印机项目竞争性谈判公告。", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "purchaser"], [19, 21, "material"], [22, 25, "material"]]}
+{"id": 2002, "text": "沈阳计量测试院二氧化碳灭火器采购项目询价公告。", "meta": {}, "annotation_approver": null, "labels": [[11, 14, "material"], [0, 7, "purchaser"]]}
